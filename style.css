@@ -1,0 +1,121 @@
+
+body{    
+    
+    height: 100%;
+}
+
+#container{
+    background-color: #0079ba;
+    width: 100wh;
+    height: 100vh;
+    display: block;
+    margin: auto;
+    padding: 5px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+h2{
+    color: white;
+    text-align: center;
+}
+
+.table-hover{
+    background-color: white;
+}
+
+.form-check-inline{
+    color: white;
+    font-weight: bold;
+
+}
+#formGroupExampleInput, #input-btModelo{
+    padding: auto;
+    margin: 5px;
+    width: 96vw;
+    border-radius: 15px;
+}
+
+#galeria{
+    margin-left: 20px;
+    width: 96vw; 
+    height: 55%;    
+    margin-left: 5px; 
+    padding: 10;
+    overflow: auto;
+    display: block;    
+    border-radius: 10px 20px;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+#exibicao{    
+    overflow: auto;
+    font-size: 0.8rem;
+    display:flow-root;
+    max-height: 90%; 
+    width: 95vw; 
+   
+}
+
+#cabecalho{      
+    
+    font-size: 1rem;
+    display: inline-block;   
+    width: 100%; 
+    margin: 0 auto;   
+   
+}
+
+#cabecalho > tr > th{   
+    margin:  auto;
+    align-self: center;  
+
+}
+
+*::-webkit-scrollbar {
+    width: 10px;
+    scrollbar-width: thin;
+    scrollbar-color: blue; 
+    
+  }
+  *::-webkit-scrollbar-track {
+    background: #CCC;
+    border: 50px;
+    border-radius: 50px;
+  }
+  *::-webkit-scrollbar-thumb {
+    background-color: #616161;
+    border-radius: 20px;
+    border: 3px solid #DDD;
+  }
+
+#logo{    
+    bottom: 0;
+    position:fixed ;
+    
+}
+
+#logomarca{
+    width: 40%;
+    display: block;
+    margin: auto;  
+    padding-left: 5%; 
+    
+}
+
+#lbPin{
+    margin-left: 50px;
+}
+
+#radios{
+    margin: 5px;
+    margin-left: 10px;
+}
