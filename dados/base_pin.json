@@ -1,1 +1,4745 @@
-[{"Seguimento":"sem modelo ","Fabricante":"fabricante desconhecido","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"M404DW","Seguimento":"IMPRESSORA PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M428FDW","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M408DN","Seguimento":"IMPRESSORA PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M432FDN","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M501DN","Seguimento":"PAGINA INICIAL","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M506DNM","Seguimento":"IMPRESSORA PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M507DN","Seguimento":"IMPRESSORA PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M527DNM","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"Service PIN ID.● 11052715"},{"Modelo":"M528C","Seguimento":"IMPRESSORA PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"E50045DW","Seguimento":"IMPRESSORA PB","Fabricante":"HP","SERVICE_PIN":"Service PIN ID.● 10050615"},{"Modelo":"E50145DN","Seguimento":"IMPRESSORA PB","Fabricante":"HP","SERVICE_PIN":"Service PIN ID.● 03050719"},{"Modelo":"E52545DN","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"Service PIN ID.● 01052715"},{"Modelo":"E52645C","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"Service PIN ID.● 03052819"},{"Modelo":"E52645DN","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"Service PIN ID.● 03052819"},{"Modelo":"M607DN","Seguimento":"IMPRESSORA PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M608DN","Seguimento":"IMPRESSORA PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M609DN","Seguimento":"IMPRESSORA PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M611DN","Seguimento":"IMPRESSORA PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M612DN","Seguimento":"IMPRESSORA PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"E60055DN","Seguimento":"IMPRESSORA PB","Fabricante":"HP","SERVICE_PIN":"Service PIN ID.● 05060717"},{"Modelo":"E60065DN","Seguimento":"IMPRESSORA PB","Fabricante":"HP","SERVICE_PIN":"Service PIN ID.● 05060717"},{"Modelo":"E60165DN","Seguimento":"IMPRESSORA PB","Fabricante":"HP","SERVICE_PIN":"Service PIN ID.● 05060717"},{"Modelo":"E62555DN","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"Service PIN ID.● 05063117"},{"Modelo":"E62655DN","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"Service PIN ID.● 05063117"},{"Modelo":"E62565HS","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"E62565Z","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"Service PIN ID.● 05063117"},{"Modelo":"E62665H","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"Service PIN ID.● 05063117"},{"Modelo":"E62665Z","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"Service PIN ID.● 05063117"},{"Modelo":"PRO4003DW","Seguimento":"IMPRESSORA PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"PRO4103FDW","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M605DNM","Seguimento":"IMPRESSORA PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M605DN","Seguimento":"IMPRESSORA PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"E77830DN","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"E72525 Z","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"E55040DW","Seguimento":"IMPRESSORA COLOR","Fabricante":"HP","SERVICE_PIN":"Service PIN ID. ● 04055315"},{"Modelo":"E57540DN","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"Service PIN ID.● 11057715"},{"Modelo":"M454DW","Seguimento":"IMPRESSORA COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"E77830Z","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"Service PIN ID.● 04077817"},{"Modelo":"E82540Z","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"Service PIN ID.● 04082517"},{"Modelo":"E82550DN","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"E82550Z","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"HPE82550 PLUS","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"E82560Z","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"E82560Z PLUS","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"E87650Z","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"Service PIN ID.● 04087617 "},{"Modelo":"M479FDW","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"E77822Z","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"556DN","Seguimento":"HP PAGEWIDE IMPRESSORA COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"586DN","Seguimento":"HP PAGEWIDE ENTERPRISE COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"E55650DN","Seguimento":"HP PAGEWIDE IMPRESSORA COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"E58650DN","Seguimento":"HP PAGEWIDE MANAGED COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"X586DN","Seguimento":"HP PAGEWIDE MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"X452DW","Seguimento":"HP PAGEWIDE IMPRESSORA COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"E77660ZS","Seguimento":"HP PAGEWIDE MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"E77650Z","Seguimento":"HP PAGEWIDE MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"PRO 477DN","Seguimento":"HP PAGEWIDE MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"E77650DN","Seguimento":"HP PAGEWIDE MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"P77740DN","Seguimento":"HP PAGEWIDE MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"P57750DW","Seguimento":"HP PAGEWIDE MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"PRO 477DW","Seguimento":"HP PAGEWIDE MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"E85055DN","Seguimento":"IMPRESSORA COLOR","Fabricante":"HP","SERVICE_PIN":"Service PIN ID.● 10085619"},{"Modelo":"E42540F","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"Service PIN ID.● 12043020"},{"Modelo":"E72535DN","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M806X","Seguimento":"IMPRESSORA PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"E78330Z","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"T2300","Seguimento":"GRANDES FORMATOS COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"T1200","Seguimento":"GRANDES FORMATOS COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"DJ T1700DR","Seguimento":"GRANDES FORMATOS COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"E57540C","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"Service PIN ID. ● 11057715"},{"Modelo":"T730 PROD","Seguimento":"PLOTTER","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"E87640Z","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"Service PIN ID.● 04087617 "},{"Modelo":"E55040DN","Seguimento":"IMPRESSORA COLOR","Fabricante":"HP","SERVICE_PIN":"Service PIN ID.● 04055315"},{"Modelo":"E72535 Z","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"T120","Seguimento":"PLOTTER","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"T2600PS","Seguimento":"GRANDES FORMATOS COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"E87660Z","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"Service PIN ID.● 04087617 "},{"Modelo":"CP2025DN","Seguimento":"IMPRESSORA COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M477FDW","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"E77830DN PLUS","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"Service PIN ID.● 04077817"},{"Modelo":"T250 PROD","Seguimento":"PLOTTER","Fabricante":"HP","SERVICE_PIN":"atrás dela tem um PIN de identificação "},{"Modelo":"DJ T1530","Seguimento":"GRANDES FORMATOS COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"T1600 PS","Seguimento":"GRANDES FORMATOS COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"HPT830_PROD","Seguimento":"PLOTTER","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"T2530PS","Seguimento":"PLOTTER","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"T1600PS_PROD","Seguimento":"GRANDES FORMATOS COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"HPPROL7780","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"HPJ3680","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M725DNM","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"DJ 1050C","Seguimento":"IMPRESSORA COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"DJ 800","Seguimento":"PLOTTER","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"E87640Z PLUS","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"Service PIN ID.● 04087617 "},{"Modelo":"T2530PS PROD","Seguimento":"PLOTTER","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"T2600PS_PROD","Seguimento":"GRANDES FORMATOS COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"T2600DR","Seguimento":"PLOTTER","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"4250DTN","Seguimento":"IMPRESSORA PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"OFFICEJET 200","Seguimento":"IMPRESSORA COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"T2600DR_PROD","Seguimento":"PLOTTER","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"E72525DN","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M134A","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"1000W","Seguimento":"IMPRESSORA PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"E87640DN","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"Service PIN ID.● 04087617 "},{"Modelo":"M451DW","Seguimento":"IMPRESSORA COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M426FDM","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M4555H","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"E77825DN","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"X476DW-CPFL","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M521DN","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M402DNE","Seguimento":"IMPRESSORA PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":1115,"Seguimento":"IMPRESSORA COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"PRO 9010","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"E87660DN","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"Service PIN ID.● 04087617 "},{"Modelo":"PRO 9020_PROD","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"T130","Seguimento":"GRANDES FORMATOS PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"CM4540","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M602N","Seguimento":"IMPRESSORA PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M425DN","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M553DNM","Seguimento":"IMPRESSORA COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"E72530Z","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M682Z","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M577DNM","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":7720,"Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"E67560Z","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"Service PIN ID.● 05068117"},{"Modelo":"E77825DN PLUS","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"CHROMEBOOK 14G5","Seguimento":"NOTEBOOK","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"PROBOOK 640 G2","Seguimento":"NOTEBOOK","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ELITEBK 820 G3","Seguimento":"NOTEBOOK","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ELITEBK X360","Seguimento":"NOTEBOOK","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ELITE BK 840","Seguimento":"NOTEBOOK","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ELITEBK 830 G6","Seguimento":"NOTEBOOK","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"NOTEBOOK 250","Seguimento":"NOTEBOOK","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"PRODESKSF 400G5","Seguimento":"MICRO COMPUTADOR","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"M551DN","Seguimento":"IMPRESSORA COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M475DN","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M476NW","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"CP3525","Seguimento":"IMPRESSORA COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M5035","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"P4515N","Seguimento":"IMPRESSORA PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"P2055DN","Seguimento":"IMPRESSORA PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"CM3530FS","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"PRODESK 400","Seguimento":"MICRO COMPUTADOR","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"PRODESK 400G9","Seguimento":"MICRO COMPUTADOR","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"PRODESKDM 400G4","Seguimento":"MICRO COMPUTADOR","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"250 G7","Seguimento":"NOTEBOOK","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"PROBOOK 640","Seguimento":"NOTEBOOK","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"COMPUTADOR","Seguimento":"MICRO COMPUTADOR","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"PRODESKDM 400G5","Seguimento":"MICRO COMPUTADOR","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"MONITOR HP","Seguimento":"MICRO COMPUTADOR","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"280 G5 SFF","Seguimento":"MICRO COMPUTADOR","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ELITEONE 800","Seguimento":"NOTEBOOK","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ELITEBK 830 G7","Seguimento":"NOTEBOOK","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ELITEBK 840 G6","Seguimento":"NOTEBOOK","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ELITEBK 840 G5","Seguimento":"NOTEBOOK","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ELITEBK 840 G8","Seguimento":"NOTEBOOK","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"MONITOR P24A","Seguimento":"MICRO COMPUTADOR","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"PRODESK G2 MT","Seguimento":"MICRO COMPUTADOR","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZBOOK","Seguimento":"NOTEBOOK","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ELITE 800G4AIO","Seguimento":"MICRO COMPUTADOR","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"MONITOR P22A","Seguimento":"MICRO COMPUTADOR","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ELITEBK 840R G4","Seguimento":"NOTEBOOK","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"T520","Seguimento":"PLOTTER","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"P3015DN","Seguimento":"IMPRESSORA PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M630HM","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"X555DN","Seguimento":"IMPRESSORA COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"X476DW","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"PRO X451DW","Seguimento":"IMPRESSORA COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"SCANJET 5000","Seguimento":"SCANNER","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M630H","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M830Z","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"Service PIN ID.● 10083013"},{"Modelo":"M525DN","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M525F","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"P4015N","Seguimento":"IMPRESSORA PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"SCANJET 7500","Seguimento":"SCANNER","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"HPE87660DN PLUS","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"Service PIN ID.● 04087617 "},{"Modelo":"M252DW","Seguimento":"IMPRESSORA COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"DJ Z5200","Seguimento":"IMPRESSORA COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M880Z","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M880ZM","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"CM4540F","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":7110,"Seguimento":"IMPRESSORA COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"N9120","Seguimento":"SCANNER","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"785ZS","Seguimento":"HP PAGEWIDE MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"X585F","Seguimento":"HP PAGEWIDE MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"X585Z","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"DJ T830","Seguimento":"GRANDES FORMATOS COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"DJ T930","Seguimento":"PLOTTER","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M750DN","Seguimento":"IMPRESSORA COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M680F","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"8600 N911A","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"PRO 8710","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"E87650Z PLUS","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"Service PIN ID.● 04087617 "},{"Modelo":"M577DN","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"276DW","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M806DN","Seguimento":"IMPRESSORA PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"7500A","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M553DN","Seguimento":"IMPRESSORA COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"T1300PS","Seguimento":"GRANDES FORMATOS COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M775DN","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M575F","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"E87650DN","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"Service PIN ID.● 04087617 "},{"Modelo":"SCANJET 3000","Seguimento":"SCANNER","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"E75245DN","Seguimento":"IMPRESSORA COLOR","Fabricante":"HP","SERVICE_PIN":"Service PIN ID.● 04075119"},{"Modelo":"8500 FN1","Seguimento":"SCANNER","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"PRO 8000","Seguimento":"IMPRESSORA COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"X585DNM","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M4555F","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M3035XS","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"CP4525DN","Seguimento":"IMPRESSORA COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M603N","Seguimento":"IMPRESSORA PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"CP5525DN","Seguimento":"IMPRESSORA COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M651DN","Seguimento":"IMPRESSORA COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"T790PS","Seguimento":"GRANDES FORMATOS PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M775FM","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"PRO 577DW","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"DJ T2500PS","Seguimento":"GRANDES FORMATOS COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"DJ T920PS","Seguimento":"GRANDES FORMATOS COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M830ZM","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"CP3525DN","Seguimento":"IMPRESSORA COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"E72535Z PLUS","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"7000N","Seguimento":"SCANNER","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"8600 N911G","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"T1300","Seguimento":"GRANDES FORMATOS COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"HPDT2300","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"N6350","Seguimento":"SCANNER","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"SCANJET 7000","Seguimento":"SCANNER","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"251DW","Seguimento":"IMPRESSORA COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"PRO 8730","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"DJ T7100","Seguimento":"GRANDES FORMATOS COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"Z240","Seguimento":"MICRO COMPUTADOR","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"M575C","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"8500 FN2","Seguimento":"SCANNER","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M603XH","Seguimento":"IMPRESSORA PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"8500A PLUS","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M5035XS","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M525C","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"E67550DH","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"Service PIN ID.● 05068117"},{"Modelo":"DESKTOP PRO G3","Seguimento":"MICRO COMPUTADOR","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"M402DN","Seguimento":"IMPRESSORA PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"DJ Z6800","Seguimento":"IMPRESSORA COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M651DNM","Seguimento":"IMPRESSORA COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"ELITEBK 1040","Seguimento":"NOTEBOOK","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"PRO A MT","Seguimento":"MICRO COMPUTADOR","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"PRO 8500","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"Z4","Seguimento":"MICRO COMPUTADOR","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"MONITOR","Seguimento":"MICRO COMPUTADOR","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"DJ T7200","Seguimento":"GRANDES FORMATOS COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"ELITED 705 G4","Seguimento":"MICRO COMPUTADOR","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"DJ T1100 MFP","Seguimento":"GRANDES FORMATOS COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"T1500PS","Seguimento":"IMPRESSORA COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"500 PS","Seguimento":"IMPRESSORA PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"P2055X","Seguimento":"IMPRESSORA PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M4345X","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"T850","Seguimento":"PLOTTER","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"T830 36","Seguimento":"PLOTTER","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"PROBOOK 445","Seguimento":"NOTEBOOK","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"PRO 4303FDW","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"SJ PRO 4500","Seguimento":"SCANNER","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M401DNE","Seguimento":"IMPRESSORA PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M452DW","Seguimento":"IMPRESSORA COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M401DN","Seguimento":"IMPRESSORA PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M9050","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M653DN","Seguimento":"IMPRESSORA COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"P2035","Seguimento":"IMPRESSORA PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"4200N","Seguimento":"IMPRESSORA PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"CM1312NFI","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"5200TN","Seguimento":"IMPRESSORA PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"PRO 3000","Seguimento":"SCANNER","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"PRO 8500A","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"M2727NF","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"PRO 8210","Seguimento":"IMPRESSORA PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"PRO 9020","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"1200W","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"T5000R","Seguimento":"IMPRESSORA PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"ELITE X2","Seguimento":"NOTEBOOK","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"X360 1030 G8","Seguimento":"NOTEBOOK","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"PRODESK 600 G1","Seguimento":"MICRO COMPUTADOR","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"PRO 3410","Seguimento":"MICRO COMPUTADOR","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ELITEBK 830 G8","Seguimento":"NOTEBOOK","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"PROBOOK 640 G4","Seguimento":"NOTEBOOK","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"T740","Seguimento":"MICRO COMPUTADOR","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"CHROMEBOOK 14G4","Seguimento":"NOTEBOOK","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"Z2","Seguimento":"MICRO COMPUTADOR","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"DESKTOP PRO G2","Seguimento":"MICRO COMPUTADOR","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ELITEBK X2 G4","Seguimento":"MICRO COMPUTADOR","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ELITEDESK 800G6","Seguimento":"NOTEBOOK","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ELITEDESK 800G5","Seguimento":"MICRO COMPUTADOR","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"445 G8","Seguimento":"NOTEBOOK","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"Z8","Seguimento":"MICRO COMPUTADOR","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"X360 830 G7","Seguimento":"NOTEBOOK","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"PRODESK 600","Seguimento":"MICRO COMPUTADOR","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"MONITOR P24VB","Seguimento":"MICRO COMPUTADOR","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ELITEBK 840 G7","Seguimento":"NOTEBOOK","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"T430","Seguimento":"MICRO COMPUTADOR","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"X360 1030 G7","Seguimento":"NOTEBOOK","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ELITEBK 830 G5","Seguimento":"NOTEBOOK","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ELITE DP E233","Seguimento":"MICRO COMPUTADOR","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"PRODESK 600 G2","Seguimento":"MICRO COMPUTADOR","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"Z6","Seguimento":"MICRO COMPUTADOR","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"CHROMEBOOK 11G6","Seguimento":"NOTEBOOK","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"PROBOOK 650 G1","Seguimento":"NOTEBOOK","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ELITEDESK 800G3","Seguimento":"MICRO COMPUTADOR","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"PROBOOK 640 G1","Seguimento":"NOTEBOOK","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"E72530DN","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"ELITEDESK 800G2","Seguimento":"MICRO COMPUTADOR","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ELITEDESK 800G1","Seguimento":"MICRO COMPUTADOR","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"PROBOOK 630 G8","Seguimento":"NOTEBOOK","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"EDA51","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"PRODESK 600 G6","Seguimento":"MICRO COMPUTADOR","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"M601","Seguimento":"IMPRESSORA PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"MFP M479","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"INTERMEC 3400","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"INTERMEC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"PB50","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"INTERMEC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"SLM4020","Seguimento":"IMPRESSORA PB","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"M4070FR","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ML-4510ND","Seguimento":"IMPRESSORA PB","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"SL-M4080FX","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"X4220RX","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"M5370LX","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"C4062FX","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ML4551ND","Seguimento":"IMPRESSORA PB","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"SL-C3060FR","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"M4580FX","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"CLX6260FR","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ML-5010ND","Seguimento":"IMPRESSORA PB","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"SCX5637FR","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ML-3750","Seguimento":"IMPRESSORA PB","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"SCX6555NX","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ML-5510ND","Seguimento":"IMPRESSORA PB","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"CLP775ND","Seguimento":"IMPRESSORA COLOR","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"CLP680ND","Seguimento":"IMPRESSORA COLOR","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"SCX-5835NX_NAC","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"K4250RX","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"CLX8640ND","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"K7600LX","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"X7600LX","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"X7400LX","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"SL-C3010ND","Seguimento":"IMPRESSORA COLOR","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"M5360RX","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"Boa tarde, Deivson","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"Tudo Bem!","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"SL-M2885","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"CLX8650ND","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"C4010ND","Seguimento":"IMPRESSORA COLOR","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"M4562FX","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ML-5515ND","Seguimento":"IMPRESSORA PB","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"SL-M4530ND","Seguimento":"IMPRESSORA PB","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"X7500LX","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"K7400LX","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"K7500LX","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"SCX6545N","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"SCX4828FN","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"SCX6555N","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ML2851ND","Seguimento":"IMPRESSORA PB","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"SCX-6555NX","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ML-3710","Seguimento":"IMPRESSORA PB","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"SCX5635FN","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"SCX-6545NX","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"MICRO SAMSUNG","Seguimento":"MICRO COMPUTADOR","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"SL-M3375FD","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"CLX9251","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"SCX5835SSTENAC","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"CLX-4195FW","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"SL-C460W","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"SLM4025","Seguimento":"IMPRESSORA PB","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"SL-M4075FR","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"SL-M3325FD","Seguimento":"IMPRESSORA PB","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"SL-C460FW","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"SL-M2070","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"SL-M2020","Seguimento":"IMPRESSORA PB","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"SL-M2020W","Seguimento":"IMPRESSORA PB","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"SL-M2835DW","Seguimento":"IMPRESSORA PB","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"SCX 8128NA","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"SL-C410W","Seguimento":"IMPRESSORA COLOR","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"SL-M2070FW","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ML-6510ND","Seguimento":"IMPRESSORA PB","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"SL-M2885FW","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"E73140z","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"Z230","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"E82660z","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"Service PIN ID.● 03082622"},{"Modelo":"E78635Z","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"Service PIN ID.● 03078622"},{"Modelo":"T650","Seguimento":"PLOTTER","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"E87760Z","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"KODAK S2070","Seguimento":"SCANNER","Fabricante":"KODAK","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"K I940","Seguimento":"SCANNER","Fabricante":"KODAK","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"KODAK I1150WN","Seguimento":"SCANNER","Fabricante":"KODAK","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"KODAK I1150","Seguimento":"SCANNER","Fabricante":"KODAK","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"K I2600","Seguimento":"SCANNER","Fabricante":"KODAK","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"KODAK I2800","Seguimento":"SCANNER","Fabricante":"KODAK","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"KODAK S2040","Seguimento":"SCANNER","Fabricante":"KODAK","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"KODAK S2050","Seguimento":"SCANNER","Fabricante":"KODAK","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"KODAK I2620","Seguimento":"SCANNER","Fabricante":"KODAK","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"K I3450","Seguimento":"SCANNER","Fabricante":"KODAK","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"KODAK S2060W","Seguimento":"SCANNER","Fabricante":"KODAK","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"KODAK I2820","Seguimento":"SCANNER","Fabricante":"KODAK","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"KODAK SS710","Seguimento":"SCANNER","Fabricante":"KODAK","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"KODAK S2080W","Seguimento":"SCANNER","Fabricante":"KODAK","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"KODAK I1190","Seguimento":"SCANNER","Fabricante":"KODAK","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"KODAK I2420","Seguimento":"SCANNER","Fabricante":"KODAK","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"KODAK I3200","Seguimento":"SCANNER","Fabricante":"KODAK","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"K I3400","Seguimento":"SCANNER","Fabricante":"KODAK","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"KODAK I2620PROD","Seguimento":"SCANNER","Fabricante":"KODAK","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"K I940 PROD","Seguimento":"SCANNER","Fabricante":"KODAK","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"KODAK E1025","Seguimento":"SCANNER","Fabricante":"KODAK","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"KODAK SS730","Seguimento":"SCANNER","Fabricante":"KODAK","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"K I4250","Seguimento":"SCANNER","Fabricante":"KODAK","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"M403","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"SINDOH","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"N707","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"SINDOH","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"WC7845","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"XEROX","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"C70","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"XEROX","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"XRX D95","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"XEROX","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"NUVERA 144","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"XEROX","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"XEROX 7500","Seguimento":"IMPRESSORA COLOR","Fabricante":"XEROX","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"WC5845C","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"XEROX","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"B9100","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"XEROX","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"C8130","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"XEROX","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"PHASER 8860","Seguimento":"IMPRESSORA COLOR","Fabricante":"XEROX","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"XRX C600","Seguimento":"IMPRESSORA COLOR","Fabricante":"XEROX","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"X8580DN","Seguimento":"IMPRESSORA COLOR","Fabricante":"XEROX","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"XRX C9000","Seguimento":"IMPRESSORA COLOR","Fabricante":"XEROX","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"C8055","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"XEROX","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"XRX B8075","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"XEROX","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"XRX B8090","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"XEROX","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"C8045","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"XEROX","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"XEROX 5550","Seguimento":"IMPRESSORA PB","Fabricante":"XEROX","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"WC5945C","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"XEROX","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"V180","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"XEROX","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"XRX D125","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"XEROX","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"XEROX C8070","Seguimento":"IMPRESSORA COLOR","Fabricante":"XEROX","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"C8030","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"XEROX","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"B9125","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"XEROX","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"C9070","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"XEROX","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"WC7830","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"XEROX","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"PHASER 6700","Seguimento":"IMPRESSORA COLOR","Fabricante":"XEROX","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"RS51B0-TBDNWR","Seguimento":"SCANNER GATILHO DUPLO","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"Z 110XI4PLUS","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZEBRA GC420T","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZEBRA GK420T","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"Z S4M-DPI","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"Z HC100","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"Z ZM400","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"Z S4M","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZT411T","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"Z ZX P3","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZEBRA ZT230","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZEBRA GX420T","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"GT800","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZT410T","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZC300","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZEBRA MC33","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZEBRA ZQ520","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZEBRA ZD230","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZEBRA ZXP7","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"Z ZM600","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZT410 300DPI","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"Z S600","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"Z TLP2844","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"Z ZM4PLUS","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"Z 140XI4PLUS","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZEBRA ZD420","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"Z 220XI4PLUS","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZEBRA ZD220","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZEBRA ZD510","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZEBRA DS2208","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"Z ZM400C","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZEBRA GX430T","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZEBRA S500","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"Z GC420","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZT420","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"Z GX420T","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"Z S4M CUTTER","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"Z ZM400-DPI","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZD500","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"Z 170XI4PLUS","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZEBRA ZXP 3","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZEBRA ZXP","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZXP9","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZEBRA GT800","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZEBRA ZT421","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZEBRA 110XI4","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZEBRA ZT620","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZEBRA QLN420","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZT610 300 DPI","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZEBRA ZQ630","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZEBRA ZT610","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZEBRA ZT510","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZEBRA ZE500","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZEBRA P420I","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"Z P430I","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"Z RW420T","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"Z THERMAL","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZEBRA MC32","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"SE4500","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZEBRA P430I","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZEBRA ZQ521","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZEBRA MC33L","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZEBRA ZQ310","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"Z COLETOR TC57","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZEBRA ZD421TT","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZEBRA ZQ320","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZEBRA QL420","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZEBRA TC83","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"Z COLETOR TC21","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"Z COLETOR TC25","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZEBRA MC33M","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"Z COLETOR TC26","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZEBRA ZD620","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZEBRA DS3678","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZEBRA MC93","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZEBRA Z6M PLUS","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"IMPRESSORA RP4","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZEBRA ZQ510","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZB GX430T","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ZEBRA ZC100","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"MP4200 TH","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"BEMATECH","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"GLOBALMARK  MG2","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"BRADY","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"IR ADV C5035","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"CANON","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"IR ADV 6055","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"CANON","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"CANON 6255","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"CANON","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"V2000","Seguimento":"SCANNER","Fabricante":"COMPAQ","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"MICRO DELL","Seguimento":"MICRO COMPUTADOR","Fabricante":"DELL","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"MICRO DELL 4700","Seguimento":"MICRO COMPUTADOR","Fabricante":"DELL","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"NOTEBOOKS","Seguimento":"NOTEBOOK","Fabricante":"DELL","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"COMP DELL M-27","Seguimento":"MICRO COMPUTADOR","Fabricante":"DELL","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"SOFTWARES ZEBRA","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"DELL","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"POWEREDGE T350","Seguimento":"MICRO COMPUTADOR","Fabricante":"DELL","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ED CARD PRINTER","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"DUALYS","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"EVOLIS","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"DUALYS","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"EPSON T5070","Seguimento":"PLOTTER","Fabricante":"EPSON","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"FX2190","Seguimento":"MATRICIAL","Fabricante":"EPSON","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"EPSON T5270SR","Seguimento":"PLOTTER","Fabricante":"EPSON","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"EPSON LX350","Seguimento":"MATRICIAL","Fabricante":"EPSON","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"FX890","Seguimento":"MATRICIAL","Fabricante":"EPSON","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"EPSON LQ-2190","Seguimento":"MATRICIAL","Fabricante":"EPSON","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"EPSON LQ-2090","Seguimento":"MATRICIAL","Fabricante":"EPSON","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"EPSON M129H","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"EPSON","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"EPSON LX-300","Seguimento":"MATRICIAL","Fabricante":"EPSON","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"EPSON M129C","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"EPSON","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"LX300","Seguimento":"MATRICIAL","Fabricante":"EPSON","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"EPSON PRO9700","Seguimento":"PLOTTER","Fabricante":"EPSON","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"T7270DR","Seguimento":"PLOTTER","Fabricante":"EPSON","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"EPSON DS-30","Seguimento":"SCANNER","Fabricante":"EPSON","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"EPSON TM-T88V","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"EPSON","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"EPSON L805","Seguimento":"IMPRESSORA COLOR","Fabricante":"EPSON","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"10000XL","Seguimento":"SCANNER","Fabricante":"EPSON","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"EPSON DFX 9000","Seguimento":"MATRICIAL","Fabricante":"EPSON","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"LQ590II","Seguimento":"MATRICIAL","Fabricante":"EPSON","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"EPSON LQ 590","Seguimento":"MATRICIAL","Fabricante":"EPSON","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"FUJFI6140","Seguimento":"SCANNER","Fabricante":"FUJITSU","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"FUJFI5000","Seguimento":"SCANNER","Fabricante":"FUJITSU","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"FUJITSU S1300I","Seguimento":"SCANNER","Fabricante":"FUJITSU","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"FI7160","Seguimento":"SCANNER","Fabricante":"FUJITSU","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"FUJITSU SP1120","Seguimento":"SCANNER","Fabricante":"FUJITSU","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"FI 7600","Seguimento":"SCANNER","Fabricante":"FUJITSU","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"FUJ6770","Seguimento":"SCANNER","Fabricante":"FUJITSU","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"FUJFI6230","Seguimento":"SCANNER","Fabricante":"FUJITSU","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"FUJITSU FI7140","Seguimento":"SCANNER","Fabricante":"FUJITSU","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"SV600","Seguimento":"SCANNER","Fabricante":"FUJITSU","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"FUJFI6130","Seguimento":"SCANNER","Fabricante":"FUJITSU","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"FI7180","Seguimento":"SCANNER","Fabricante":"FUJITSU","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"FI 7480","Seguimento":"SCANNER","Fabricante":"FUJITSU","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"FUJFI5530C2","Seguimento":"SCANNER","Fabricante":"FUJITSU","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"FUJFI5110C","Seguimento":"SCANNER","Fabricante":"FUJITSU","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"FUJS1500","Seguimento":"SCANNER","Fabricante":"FUJITSU","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"FUJ IX500","Seguimento":"SCANNER","Fabricante":"FUJITSU","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"FI 7700","Seguimento":"SCANNER","Fabricante":"FUJITSU","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"FUJFI6110","Seguimento":"SCANNER","Fabricante":"FUJITSU","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"FUJITSU SP1130","Seguimento":"SCANNER","Fabricante":"FUJITSU","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"FUJS1300","Seguimento":"SCANNER","Fabricante":"FUJITSU","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"FUJ IX1600","Seguimento":"SCANNER","Fabricante":"FUJITSU","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"FUJITSU FI-800R","Seguimento":"SCANNER","Fabricante":"FUJITSU","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"FUJFI6240","Seguimento":"SCANNER","Fabricante":"FUJITSU","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"FI-7600","Seguimento":"SCANNER","Fabricante":"FUJITSU","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"FI-7700","Seguimento":"SCANNER","Fabricante":"FUJITSU","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"FI 7800","Seguimento":"SCANNER","Fabricante":"FUJITSU","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"IX100","Seguimento":"SCANNER","Fabricante":"FUJITSU","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"NOTEBOOK 240G6","Seguimento":"NOTEBOOK","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"PROBOOK 440 G7","Seguimento":"NOTEBOOK","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"PROBOOK 440 G9","Seguimento":"NOTEBOOK","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"PRODESKDM 400G3","Seguimento":"MICRO COMPUTADOR","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ELITEDESK 800G4","Seguimento":"MICRO COMPUTADOR","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ELITE BK 840G4","Seguimento":"NOTEBOOK","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"PRODESKSF 400G4","Seguimento":"MICRO COMPUTADOR","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ELITEDESK 705G3","Seguimento":"MICRO COMPUTADOR","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"MONITOR HP V19","Seguimento":"MICRO COMPUTADOR","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"MONITOR HP V22","Seguimento":"MICRO COMPUTADOR","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"MONITOR HP ELT","Seguimento":"MICRO COMPUTADOR","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ELITE BK 840G3","Seguimento":"NOTEBOOK","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"ELITEBK 640 G9","Seguimento":"NOTEBOOK","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"NOTEBOOK 240 G7","Seguimento":"NOTEBOOK","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"NOTEBOOK 240","Seguimento":"NOTEBOOK","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"240 G8","Seguimento":"NOTEBOOK","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"250 G8","Seguimento":"NOTEBOOK","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"PROBOOK 640 G8","Seguimento":"NOTEBOOK","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"PRODESK 400 G7","Seguimento":"MICRO COMPUTADOR","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"PRODESKDM 400G6","Seguimento":"MICRO COMPUTADOR","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"X57945Z","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"Service PIN ID.● 10580022"},{"Modelo":"ZEBRA ZT231","Seguimento":"IMPRESSORA TÉRMICA","Fabricante":"ZEBRA","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"FUJFI8170","Seguimento":"SCANNER","Fabricante":"FUJITSU","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"X57945DN","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"Service PIN ID.● 10580022"},{"Modelo":"K4350LX","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"SAMSUNG","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"M428FDW_220V","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"MP161","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"Ricoh","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"250 G9","Seguimento":"NOTEBOOK","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"C8135","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"XEROX","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"280 G9 SFF","Seguimento":"MICRO COMPUTADOR","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"PRO 4203DW","Seguimento":"IMPRESSORA PB","Fabricante":"HP","SERVICE_PIN":"PIN ID.● etiqueta interna no equipamento "},{"Modelo":"C7120","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"XEROX","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"E62565HS","Seguimento":"MULTIFUNCIONAL PB","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"E67660Z","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"verificar se tem PIN"},{"Modelo":"ELITEDESK 800G9","Seguimento":"MICRO COMPUTADOR","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"PRODESK 400 G9","Seguimento":"MICRO COMPUTADOR","Fabricante":"HP_PC","SERVICE_PIN":"NÃO TEM PIN_ID"},{"Modelo":"107W","Seguimento":"IMPRESSORA PB","Fabricante":"HP"},{"Modelo":"MONITOR V19","Seguimento":"Micro Computador","Fabricante":"HP"},{"Modelo":"SS M5370LX","Seguimento":"Multifuncional PB","Fabricante":"SAMSUNG"},{"Modelo":"SS M5360RX","Seguimento":"Multifuncional PB","Fabricante":"SAMSUNG"},{"Modelo":"SS C4062FX","Seguimento":"Multifuncional Color","Fabricante":"SAMSUNG"},{"Modelo":"SS SCX6555N","Seguimento":"Multifuncional PB","Fabricante":"SAMSUNG"},{"Modelo":"280 G9 SFF","Seguimento":"Micro Computador","Fabricante":"HP"},{"Modelo":"ELITEBK 640 G9","Seguimento":"Notebook","Fabricante":"HP"},{"Modelo":"SS ML-4510ND","Seguimento":"Impressora PB","Fabricante":"SAMSUNG"},{"Modelo":"M428DW","Seguimento":"Multifuncional PB","Fabricante":"HP"},{"Modelo":"PRODESKDM 400G9","Seguimento":"Notebook","Fabricante":"HP"},{"Modelo":"PROBOOK 440G","Seguimento":"Notebook","Fabricante":"HP"},{"Modelo":"SS C4010ND","Seguimento":"Impressora Color","Fabricante":"SAMSUNG"},{"Modelo":"SL-C480FW","Seguimento":"Multifuncional Color","Fabricante":"SAMSUNG"},{"Modelo":"MONITOR V22","Seguimento":"Micro Computador","Fabricante":"HP"},{"Modelo":"440 G9","Seguimento":"Notebook","Fabricante":"HP"},{"Modelo":"SS SCX5637FR","Seguimento":"Multifuncional PB","Fabricante":"SAMSUNG"},{"Modelo":"SS SCX 8128NA","Seguimento":"Multifuncional PB","Fabricante":"SAMSUNG"},{"Modelo":"800 G9 DM","Seguimento":"Notebook","Fabricante":"HP"},{"Modelo":"P22A G5","Seguimento":"Notebook","Fabricante":"HP"},{"Modelo":"840 G9","Seguimento":"Notebook","Fabricante":"HP"},{"Modelo":"P24A G5","Seguimento":"Notebook","Fabricante":"HP"},{"Modelo":"P22B G5","Seguimento":"Notebook","Fabricante":"HP"},{"Modelo":"K4350LX","Seguimento":"Multifuncional PB","Fabricante":"SAMSUNG"},{"Modelo":"SS M4580FX","Seguimento":"Multifuncional PB","Fabricante":"SAMSUNG"},{"Modelo":"SS ML-5515ND","Seguimento":"Impressora PB","Fabricante":"SAMSUNG"},{"Modelo":"M454DN","Seguimento":"Impressora Color","Fabricante":"HP"},{"Modelo":"K4300LX","Seguimento":"Multifuncional PB","Fabricante":"SAMSUNG"},{"Modelo":"SS SCX6555NX","Seguimento":"Multifuncional PB","Fabricante":"SAMSUNG"},{"Modelo":"ELITEDESK 600G9","Seguimento":"Notebook","Fabricante":"HP"},{"Modelo":"X4300LX","Seguimento":"Multifuncional Color","Fabricante":"SAMSUNG"},{"Modelo":"400 G9 DM","Seguimento":"Micro Computador","Fabricante":"HP"},{"Modelo":"T850 PRINTER","Seguimento":"Multifuncional Color","Fabricante":"HP"},{"Modelo":"7800DN","Seguimento":"Impressora Color","Fabricante":"XEROX"},{"Modelo":"SCX-6555NX_BB","Seguimento":"Multifuncional PB","Fabricante":"SAMSUNG"},{"Modelo":"400 G9 SFF","Seguimento":"Notebook","Fabricante":"HP"},{"Modelo":"SS ML-5510ND","Seguimento":"Impressora PB","Fabricante":"SAMSUNG"},{"Modelo":"ELITEBK 840 G9","Seguimento":"Notebook","Fabricante":"HP"},{"Modelo":"X55745DN","Seguimento":"Impressora Color","Fabricante":"HP","SERVICE_PIN":"Service PIN ID.● 10570022"},{"Modelo":"SL-M2070W","Seguimento":"Multifuncional PB","Fabricante":"SAMSUNG"},{"Modelo":"ZB FURY G10","Seguimento":"Notebook","Fabricante":"HP"},{"Modelo":"ZEBRA ZQ620","Seguimento":"Impressora Térmica","Fabricante":"ZEBRA"},{"Modelo":"M528DN","Seguimento":"Multifuncional PB","Fabricante":"HP"},{"Modelo":"EDA52","Seguimento":"Impressora Térmica","Fabricante":"ZEBRA"},{"Modelo":"840 G10","Seguimento":"Notebook","Fabricante":"HP"},{"Modelo":"PRO 4203DW","Seguimento":"Impressora Color","Fabricante":"HP"},{"Modelo":"T1700DR_PROD","Seguimento":"Multifuncional Color","Fabricante":"HP"},{"Modelo":"SEMINOVO","Seguimento":"Notebook","Fabricante":"HP"},{"Modelo":"1040 G10","Seguimento":"Notebook","Fabricante":"HP"},{"Modelo":"640 G9","Seguimento":"Notebook","Fabricante":"HP"},{"Modelo":"PC42T","Seguimento":"Impressora Térmica","Fabricante":"ZEBRA"},{"Modelo":"SCANNER","Seguimento":"Scanner","Fabricante":"HP"},{"Modelo":"MP301","Seguimento":"Multifuncional PB","Fabricante":"RICOH"},{"Modelo":"SP5210SF","Seguimento":"Multifuncional PB","Fabricante":"RICOH"},{"Modelo":"HL5350DN_SST","Seguimento":"Impressora PB","Fabricante":"BROTHER"},{"Modelo":"DESKTOP 280G5","Seguimento":"Notebook","Fabricante":"HP"},{"Modelo":"PROBOOK 445 G9","Seguimento":"Notebook","Fabricante":"HP"},{"Modelo":"- PRO A MT","Seguimento":"Micro Computador","Fabricante":"HP"},{"Modelo":"ZEBRA ZD421","Seguimento":"Impressora Térmica","Fabricante":"ZEBRA"},{"Modelo":"MICRO LENOVO","Seguimento":"Micro Computador","Fabricante":"LENOVO"},{"Modelo":"DESKTOP LENOVO","Seguimento":"Micro Computador","Fabricante":"LENOVO"},{"Modelo":"FUJITSU FI-8150","Seguimento":"Scanner","Fabricante":"FUJITSU"},{"Modelo":"M527DN","Seguimento":"Multifuncional PB","Fabricante":"HP"},{"Modelo":"SC G4050","Seguimento":"Scanner","Fabricante":"HP"},{"Modelo":"DRAGON G4","Seguimento":"Notebook","Fabricante":"HP"},{"Modelo":"SS M4562FX","Seguimento":"Multifuncional PB","Fabricante":"SAMSUNG"},{"Modelo":"PRO X452DW","Seguimento":"Impressora Color","Fabricante":"HP"},{"Modelo":"640 G10","Seguimento":"Notebook","Fabricante":"HP"},{"Modelo":"SS SCX6545N","Seguimento":"Multifuncional PB","Fabricante":"SAMSUNG"},{"Modelo":"T730","Seguimento":"PLOTTER","Fabricante":"HP"},{"Modelo":"M506N","Seguimento":"Impressora PB","Fabricante":"HP"},{"Modelo":"X477DW","Seguimento":"Multifuncional Color","Fabricante":"HP"},{"Modelo":"ZB 16 G9","Seguimento":"Notebook","Fabricante":"HP"},{"Modelo":"PD45","Seguimento":"Impressora Térmica","Fabricante":"ZEBRA"},{"Modelo":"Z2 G9","Seguimento":"Notebook","Fabricante":"HP"},{"Modelo":"E27 G5","Seguimento":"Micro Computador","Fabricante":"HP"},{"Modelo":"XEROX C8135","Seguimento":"Impressora Color","Fabricante":"XEROX"},{"Modelo":"BENQ LU935","Seguimento":"Micro Computador","Fabricante":"HP"},{"Modelo":"SS ML2851ND","Seguimento":"Impressora PB","Fabricante":"SAMSUNG"},{"Modelo":"SS ML4551ND","Seguimento":"Impressora PB","Fabricante":"SAMSUNG"},{"Modelo":"MP201SPF","Seguimento":"Multifuncional PB","Fabricante":"RICOH"},{"Modelo":"SS ML-3710","Seguimento":"Impressora PB","Fabricante":"SAMSUNG"},{"Modelo":"MFC8890DW_SST","Seguimento":"Multifuncional PB","Fabricante":"BROTHER"},{"Modelo":"MPC2051","Seguimento":"Multifuncional Color","Fabricante":"RICOH"},{"Modelo":"SP4310N","Seguimento":"Impressora PB","Fabricante":"RICOH"},{"Modelo":"SP4210N","Seguimento":"Impressora PB","Fabricante":"RICOH"},{"Modelo":"800 G9 SFF","Seguimento":"Notebook","Fabricante":"HP"},{"Modelo":"SPC820DN","Seguimento":"Impressora Color","Fabricante":"RICOH"},{"Modelo":"ZB PWR G10","Seguimento":"Notebook","Fabricante":"HP"},{"Modelo":"POLY-FOCUS","Seguimento":"Não Ricoh","Fabricante":"POLY"},{"Modelo":"SS SCX-4833FD","Seguimento":"Multifuncional PB","Fabricante":"SAMSUNG"},{"Modelo":"ELITEBOOK 640G9","Seguimento":"Notebook","Fabricante":"HP"},{"Modelo":"FUJITSU FI-8270","Seguimento":"Scanner","Fabricante":"FUJITSU"},{"Modelo":"E87660Z PLUS","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"Service PIN ID.● 04087617 "},{"Modelo":"M605N","Seguimento":"Impressora PB","Fabricante":"HP"},{"Modelo":"SS SCX-6545NX","Seguimento":"Multifuncional PB","Fabricante":"SAMSUNG"},{"Modelo":"A450","Seguimento":"Multifuncional PB","Fabricante":"RICOH"},{"Modelo":"A650","Seguimento":"Multifuncional PB","Fabricante":"RICOH"},{"Modelo":"SP5200SF","Seguimento":"Multifuncional PB","Fabricante":"RICOH"},{"Modelo":"SP5210DN","Seguimento":"Impressora PB","Fabricante":"RICOH"},{"Modelo":"SCX5637FR_SSTE","Seguimento":"Multifuncional PB","Fabricante":"SAMSUNG"},{"Modelo":"MP5002SPF","Seguimento":"Multifuncional PB","Fabricante":"RICOH"},{"Modelo":"SS SCX5635FN","Seguimento":"Multifuncional PB","Fabricante":"SAMSUNG"},{"Modelo":"P3015X","Seguimento":"Impressora PB","Fabricante":"HP"},{"Modelo":"MP171SPF","Seguimento":"Multifuncional PB","Fabricante":"RICOH"},{"Modelo":"Z4 G5","Seguimento":"Notebook","Fabricante":"HP"},{"Modelo":"THINKPAD X380","Seguimento":"Notebook","Fabricante":"LENOVO"},{"Modelo":"GX3000S","Seguimento":"Impressora Color","Fabricante":"RICOH"},{"Modelo":"MP161SPF","Seguimento":"Multifuncional PB","Fabricante":"RICOH"},{"Modelo":"MONITOR ELT","Seguimento":"Micro Computador","Fabricante":"HP"},{"Modelo":"EDA51K","Seguimento":"Impressora Térmica","Fabricante":"HP"},{"Modelo":"T850 MFP","Seguimento":"Multifuncional Color","Fabricante":"HP"},{"Modelo":"MP2000P","Seguimento":"Multifuncional PB","Fabricante":"RICOH"},{"Modelo":"MPW2400","Seguimento":"Grandes Formatos PB","Fabricante":"RICOH"},{"Modelo":"MP161","Seguimento":"Multifuncional PB","Fabricante":"RICOH"},{"Modelo":"SP4100N","Seguimento":"Impressora PB","Fabricante":"RICOH"},{"Modelo":"7980G2D","Seguimento":"Impressora Térmica","Fabricante":"ZEBRA"},{"Modelo":"1470G2D","Seguimento":"Impressora Térmica","Fabricante":"ZEBRA"},{"Modelo":"T4M","Seguimento":"Impressora Térmica","Fabricante":"PRINTRONIX"},{"Modelo":"M527CM","Seguimento":"Multifuncional PB","Fabricante":"HP"},{"Modelo":"X4250LX","Seguimento":"Multifuncional Color","Fabricante":"SAMSUNG"},{"Modelo":"ZEBRA MC22","Seguimento":"Impressora Térmica","Fabricante":"ZEBRA"},{"Modelo":"POLY-B32X0","Seguimento":"Notebook","Fabricante":"HP"},{"Modelo":"CK65","Seguimento":"Impressora Térmica","Fabricante":"HONEYWELL"},{"Modelo":"FUJITSU FI-8190","Seguimento":"Scanner","Fabricante":"FUJITSU"},{"Modelo":"PRODESKDM 405G6","Seguimento":"Micro Computador","Fabricante":"HP"},{"Modelo":"SS SCX4828FN","Seguimento":"Multifuncional PB","Fabricante":"SAMSUNG"},{"Modelo":"SPC830DN","Seguimento":"Impressora Color","Fabricante":"RICOH"},{"Modelo":"M506DN","Seguimento":"Impressora PB","Fabricante":"HP"},{"Modelo":"XRX C7120","Seguimento":"Multifuncional Color","Fabricante":"XEROX"},{"Modelo":"SP5200DN","Seguimento":"Impressora PB","Fabricante":"RICOH"},{"Modelo":"ZT411","Seguimento":"Impressora Térmica","Fabricante":"ZEBRA"},{"Modelo":"MPC5503","Seguimento":"Multifuncional Color","Fabricante":"RICOH"},{"Modelo":"A1105","Seguimento":"Multifuncional PB","Fabricante":"RICOH"},{"Modelo":"FT3813","Seguimento":"Copiadora PB","Fabricante":"RICOH"},{"Modelo":"A450E","Seguimento":"Multifuncional PB","Fabricante":"RICOH"},{"Modelo":"A1045","Seguimento":"Multifuncional PB","Fabricante":"SAMSUNG"},{"Modelo":"A1015","Seguimento":"Multifuncional PB","Fabricante":"SAMSUNG"},{"Modelo":"A1013","Seguimento":"Multifuncional PB","Fabricante":"SAMSUNG"},{"Modelo":"A2015","Seguimento":"Multifuncional PB","Fabricante":"RICOH"},{"Modelo":"A1515MFP","Seguimento":"Multifuncional PB","Fabricante":"RICOH"},{"Modelo":"AC104","Seguimento":"Multifuncional PB","Fabricante":"RICOH"},{"Modelo":"AP410N","Seguimento":"Impressora PB","Fabricante":"RICOH"},{"Modelo":"SS ML-6510ND","Seguimento":"Impressora PB","Fabricante":"SAMSUNG"},{"Modelo":"CT60","Seguimento":"Impressora Térmica","Fabricante":"HONEYWELL"},{"Modelo":"PD45S","Seguimento":"Impressora Térmica","Fabricante":"ZEBRA"},{"Modelo":"PROC651EX","Seguimento":"Multifuncional Color","Fabricante":"RICOH"},{"Modelo":"FUJITSU FI 8040","Seguimento":"Scanner","Fabricante":"FUJITSU"},{"Modelo":"ZBOOK PWRG9","Seguimento":"Notebook","Fabricante":"HP"},{"Modelo":"A2020P","Seguimento":"Multifuncional PB","Fabricante":"RICOH"},{"Modelo":"M527C","Seguimento":"Multifuncional PB","Fabricante":"HP"},{"Modelo":"B8170","Seguimento":"Multifuncional PB","Fabricante":"XEROX"},{"Modelo":"ZEBRA DS3608ER","Seguimento":"Impressora Térmica","Fabricante":"ZEBRA"},{"Modelo":"A1515","Seguimento":"Multifuncional PB","Fabricante":"RICOH"},{"Modelo":"BP20","Seguimento":"Impressora PB","Fabricante":"RICOH"},{"Modelo":"A3025","Seguimento":"Multifuncional PB","Fabricante":"RICOH"},{"Modelo":"A1018","Seguimento":"Multifuncional PB","Fabricante":"SAMSUNG"},{"Modelo":"SPC232DN","Seguimento":"Impressora Color","Fabricante":"RICOH"},{"Modelo":"MP C401SP","Seguimento":"Multifuncional Color","Fabricante":"RICOH"},{"Modelo":"COLETOR CT30XP","Seguimento":"Impressora Térmica","Fabricante":"HONEYWELL"},{"Modelo":"X556DN","Seguimento":"Impressora Color","Fabricante":"HP"},{"Modelo":"MPC305SPF","Seguimento":"Multifuncional Color","Fabricante":"RICOH"},{"Modelo":"4250N","Seguimento":"Impressora PB","Fabricante":"HP"},{"Modelo":"MPW3601","Seguimento":"Grandes Formatos PB","Fabricante":"RICOH"},{"Modelo":"MONITOR DELL","Seguimento":"Micro Computador","Fabricante":"DELL"},{"Modelo":"SPC420","Seguimento":"Impressora Color","Fabricante":"RICOH"},{"Modelo":"MPC2050","Seguimento":"Multifuncional Color","Fabricante":"RICOH"},{"Modelo":"MPC2500EFI","Seguimento":"Multifuncional Color","Fabricante":"RICOH"},{"Modelo":"MPC2800","Seguimento":"Multifuncional Color","Fabricante":"RICOH"},{"Modelo":"MPC6501SP","Seguimento":"Multifuncional Color","Fabricante":"RICOH"},{"Modelo":"MPC300","Seguimento":"Multifuncional Color","Fabricante":"RICOH"},{"Modelo":"SPC430DN","Seguimento":"Impressora Color","Fabricante":"RICOH"},{"Modelo":"GX3050N","Seguimento":"Impressora Color","Fabricante":"RICOH"},{"Modelo":"A3260CP","Seguimento":"Multifuncional Color","Fabricante":"RICOH"},{"Modelo":"SPC410DN","Seguimento":"Impressora Color","Fabricante":"RICOH"},{"Modelo":"LEXMARK 4227","Seguimento":"Matricial","Fabricante":"LEXMARK"},{"Modelo":"MFC-8952DW","Seguimento":"Multifuncional PB","Fabricante":"BROTHER"},{"Modelo":"MP2001","Seguimento":"Multifuncional PB","Fabricante":"RICOH"},{"Modelo":"ELITEBK X2 G8","Seguimento":"Notebook","Fabricante":"HP"},{"Modelo":7740,"Seguimento":"Multifuncional Color","Fabricante":"HP"},{"Modelo":"M527F","Seguimento":"Multifuncional PB","Fabricante":"HP"},{"Modelo":"E24T G5","Seguimento":"Notebook","Fabricante":"HP"},{"Modelo":"ZEBRA ZT420","Seguimento":"Impressora Térmica","Fabricante":"ZEBRA"},{"Modelo":"KODAK S3120","Seguimento":"Scanner","Fabricante":"KODAK"},{"Modelo":"E58650","Seguimento":"Multifuncional Color","Fabricante":"HP","SERVICE_PIN":"Service PIN ID.● 05055616"},{"Modelo":"POLY-B33X5","Seguimento":"Notebook","Fabricante":"POLY"},{"Modelo":"Z6 G5","Seguimento":"Notebook","Fabricante":"HP"},{"Modelo":"ZEBRA MC27","Seguimento":"Impressora Térmica","Fabricante":"ZEBRA"},{"Modelo":"MPC2003SP","Seguimento":"Multifuncional Color","Fabricante":"RICOH"},{"Modelo":"CL3000","Seguimento":"Impressora Color","Fabricante":"RICOH"},{"Modelo":"AP610N","Seguimento":"Impressora PB","Fabricante":"RICOH"},{"Modelo":"M506","Seguimento":"Impressora PB","Fabricante":"HP"},{"Modelo":"MP2501SP","Seguimento":"Multifuncional PB","Fabricante":"RICOH"},{"Modelo":"ZB FURY 16 G9","Seguimento":"Notebook","Fabricante":"HP"},{"Modelo":"M527","Seguimento":"Multifuncional PB","Fabricante":"HP"},{"Modelo":"X360 1040 G9","Seguimento":"Notebook","Fabricante":"HP"},{"Modelo":"E77830Z PLUS","Seguimento":"Multifuncional Color","Fabricante":"HP","SERVICE_PIN":"Service PIN ID.● 04077817"},{"Modelo":"POLY-V5200","Seguimento":"Notebook","Fabricante":"POLY"},{"Modelo":"POLY-B5220","Seguimento":"Notebook","Fabricante":"POLY"},{"Modelo":"SPC242SF","Seguimento":"Multifuncional Color","Fabricante":"RICOH"},{"Modelo":"MPC3002","Seguimento":"Multifuncional Color","Fabricante":"RICOH"},{"Modelo":"OKI C911","Seguimento":"Impressora Color","Fabricante":"OKI"},{"Modelo":"Z4 G4","Seguimento":"Notebook","Fabricante":"HP"},{"Modelo":"Z840","Seguimento":"Notebook","Fabricante":"HP"},{"Modelo":"PROBOOK 440G7"},{"Modelo":"E60165DN_001","SERVICE_PIN":"Service PIN ID.●05060717"},{"Modelo":"FUJITSU FI-8170"},{"Modelo":"PRO4003DW_001"},{"Modelo":"GALAXY TAB A 8"},{"Modelo":"E527DN"},{"Modelo":"E82660"},{"Modelo":"E87660DN PLUS","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP","SERVICE_PIN":"Service PIN ID.● 04087617 "},{"Modelo":" P77740DN"},{"Modelo":"MONITOR "},{"Modelo":"E60165DN ","SERVICE_PIN":"Service PIN ID.●5060717"},{"Modelo":"Todos PC"},{"Modelo":"Todos geral"},{"Modelo":"M776ZS","Seguimento":"MULTIFUNCIONAL COLOR","Fabricante":"HP"},{"Modelo":"Z8 G5","Seguimento":"Workstation Desktop","Fabricante":"HP_PC"}]
+[
+  {
+    "Seguimento": "sem modelo ",
+    "Fabricante": "fabricante desconhecido",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "M404DW",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M428FDW",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M408DN",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M432FDN",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M501DN",
+    "Seguimento": "PAGINA INICIAL",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M506DNM",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M507DN",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M527DNM",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "Service PIN ID.● 11052715"
+  },
+  {
+    "Modelo": "M528C",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "E50045DW",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "Service PIN ID.● 10050615"
+  },
+  {
+    "Modelo": "E50145DN",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "Service PIN ID.● 03050719"
+  },
+  {
+    "Modelo": "E52545DN",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "Service PIN ID.● 01052715"
+  },
+  {
+    "Modelo": "E52645C",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "Service PIN ID.● 03052819"
+  },
+  {
+    "Modelo": "E52645DN",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "Service PIN ID.● 03052819"
+  },
+  {
+    "Modelo": "M607DN",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M608DN",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M609DN",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M611DN",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M612DN",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "E60055DN",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "Service PIN ID.● 05060717"
+  },
+  {
+    "Modelo": "E60065DN",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "Service PIN ID.● 05060717"
+  },
+  {
+    "Modelo": "E60165DN",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "Service PIN ID.● 05060717"
+  },
+  {
+    "Modelo": "E62555DN",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "Service PIN ID.● 05063117"
+  },
+  {
+    "Modelo": "E62655DN",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "Service PIN ID.● 05063117"
+  },
+  {
+    "Modelo": "E62565HS",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "E62565Z",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "Service PIN ID.● 05063117"
+  },
+  {
+    "Modelo": "E62665H",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "Service PIN ID.● 05063117"
+  },
+  {
+    "Modelo": "E62665Z",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "Service PIN ID.● 05063117"
+  },
+  {
+    "Modelo": "PRO4003DW",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "PRO4103FDW",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M605DNM",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M605DN",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "E77830DN",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "E72525 Z",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "E55040DW",
+    "Seguimento": "IMPRESSORA COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "Service PIN ID. ● 04055315"
+  },
+  {
+    "Modelo": "E57540DN",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "Service PIN ID.● 11057715"
+  },
+  {
+    "Modelo": "M454DW",
+    "Seguimento": "IMPRESSORA COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "E77830Z",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "Service PIN ID.● 04077817"
+  },
+  {
+    "Modelo": "E82540Z",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "Service PIN ID.● 04082517"
+  },
+  {
+    "Modelo": "E82550DN",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "E82550Z",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "HPE82550 PLUS",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "E82560Z",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "E82560Z PLUS",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "E87650Z",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "Service PIN ID.● 04087617 "
+  },
+  {
+    "Modelo": "M479FDW",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "E77822Z",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "556DN",
+    "Seguimento": "HP PAGEWIDE IMPRESSORA COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "586DN",
+    "Seguimento": "HP PAGEWIDE ENTERPRISE COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "E55650DN",
+    "Seguimento": "HP PAGEWIDE IMPRESSORA COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "E58650DN",
+    "Seguimento": "HP PAGEWIDE MANAGED COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "X586DN",
+    "Seguimento": "HP PAGEWIDE MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "X452DW",
+    "Seguimento": "HP PAGEWIDE IMPRESSORA COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "E77660ZS",
+    "Seguimento": "HP PAGEWIDE MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "E77650Z",
+    "Seguimento": "HP PAGEWIDE MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "PRO 477DN",
+    "Seguimento": "HP PAGEWIDE MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "E77650DN",
+    "Seguimento": "HP PAGEWIDE MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "P77740DN",
+    "Seguimento": "HP PAGEWIDE MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "P57750DW",
+    "Seguimento": "HP PAGEWIDE MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "PRO 477DW",
+    "Seguimento": "HP PAGEWIDE MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "E85055DN",
+    "Seguimento": "IMPRESSORA COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "Service PIN ID.● 10085619"
+  },
+  {
+    "Modelo": "E42540F",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "Service PIN ID.● 12043020"
+  },
+  {
+    "Modelo": "E72535DN",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M806X",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "E78330Z",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "T2300",
+    "Seguimento": "GRANDES FORMATOS COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "T1200",
+    "Seguimento": "GRANDES FORMATOS COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "DJ T1700DR",
+    "Seguimento": "GRANDES FORMATOS COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "E57540C",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "Service PIN ID. ● 11057715"
+  },
+  {
+    "Modelo": "T730 PROD",
+    "Seguimento": "PLOTTER",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "E87640Z",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "Service PIN ID.● 04087617 "
+  },
+  {
+    "Modelo": "E55040DN",
+    "Seguimento": "IMPRESSORA COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "Service PIN ID.● 04055315"
+  },
+  {
+    "Modelo": "E72535 Z",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "T120",
+    "Seguimento": "PLOTTER",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "T2600PS",
+    "Seguimento": "GRANDES FORMATOS COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "E87660Z",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "Service PIN ID.● 04087617 "
+  },
+  {
+    "Modelo": "CP2025DN",
+    "Seguimento": "IMPRESSORA COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M477FDW",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "E77830DN PLUS",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "Service PIN ID.● 04077817"
+  },
+  {
+    "Modelo": "T250 PROD",
+    "Seguimento": "PLOTTER",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "atrás dela tem um PIN de identificação "
+  },
+  {
+    "Modelo": "DJ T1530",
+    "Seguimento": "GRANDES FORMATOS COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "T1600 PS",
+    "Seguimento": "GRANDES FORMATOS COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "HPT830_PROD",
+    "Seguimento": "PLOTTER",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "T2530PS",
+    "Seguimento": "PLOTTER",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "T1600PS_PROD",
+    "Seguimento": "GRANDES FORMATOS COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "HPPROL7780",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "HPJ3680",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M725DNM",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "DJ 1050C",
+    "Seguimento": "IMPRESSORA COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "DJ 800",
+    "Seguimento": "PLOTTER",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "E87640Z PLUS",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "Service PIN ID.● 04087617 "
+  },
+  {
+    "Modelo": "T2530PS PROD",
+    "Seguimento": "PLOTTER",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "T2600PS_PROD",
+    "Seguimento": "GRANDES FORMATOS COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "T2600DR",
+    "Seguimento": "PLOTTER",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "4250DTN",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "OFFICEJET 200",
+    "Seguimento": "IMPRESSORA COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "T2600DR_PROD",
+    "Seguimento": "PLOTTER",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "E72525DN",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M134A",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "1000W",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "E87640DN",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "Service PIN ID.● 04087617 "
+  },
+  {
+    "Modelo": "M451DW",
+    "Seguimento": "IMPRESSORA COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M426FDM",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M4555H",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "E77825DN",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "X476DW-CPFL",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M521DN",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M402DNE",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": 1115,
+    "Seguimento": "IMPRESSORA COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "PRO 9010",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "E87660DN",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "Service PIN ID.● 04087617 "
+  },
+  {
+    "Modelo": "PRO 9020_PROD",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "T130",
+    "Seguimento": "GRANDES FORMATOS PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "CM4540",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M602N",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M425DN",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M553DNM",
+    "Seguimento": "IMPRESSORA COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "E72530Z",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M682Z",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M577DNM",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": 7720,
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "E67560Z",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "Service PIN ID.● 05068117"
+  },
+  {
+    "Modelo": "E77825DN PLUS",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "CHROMEBOOK 14G5",
+    "Seguimento": "NOTEBOOK",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "PROBOOK 640 G2",
+    "Seguimento": "NOTEBOOK",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ELITEBK 820 G3",
+    "Seguimento": "NOTEBOOK",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ELITEBK X360",
+    "Seguimento": "NOTEBOOK",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ELITE BK 840",
+    "Seguimento": "NOTEBOOK",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ELITEBK 830 G6",
+    "Seguimento": "NOTEBOOK",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "NOTEBOOK 250",
+    "Seguimento": "NOTEBOOK",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "PRODESKSF 400G5",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "M551DN",
+    "Seguimento": "IMPRESSORA COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M475DN",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M476NW",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "CP3525",
+    "Seguimento": "IMPRESSORA COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M5035",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "P4515N",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "P2055DN",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "CM3530FS",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "PRODESK 400",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "PRODESK 400G9",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "PRODESKDM 400G4",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "250 G7",
+    "Seguimento": "NOTEBOOK",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "PROBOOK 640",
+    "Seguimento": "NOTEBOOK",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "COMPUTADOR",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "PRODESKDM 400G5",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "MONITOR HP",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "280 G5 SFF",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ELITEONE 800",
+    "Seguimento": "NOTEBOOK",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ELITEBK 830 G7",
+    "Seguimento": "NOTEBOOK",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ELITEBK 840 G6",
+    "Seguimento": "NOTEBOOK",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ELITEBK 840 G5",
+    "Seguimento": "NOTEBOOK",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ELITEBK 840 G8",
+    "Seguimento": "NOTEBOOK",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "MONITOR P24A",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "PRODESK G2 MT",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZBOOK",
+    "Seguimento": "NOTEBOOK",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ELITE 800G4AIO",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "MONITOR P22A",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ELITEBK 840R G4",
+    "Seguimento": "NOTEBOOK",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "T520",
+    "Seguimento": "PLOTTER",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "P3015DN",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M630HM",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "X555DN",
+    "Seguimento": "IMPRESSORA COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "X476DW",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "PRO X451DW",
+    "Seguimento": "IMPRESSORA COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "SCANJET 5000",
+    "Seguimento": "SCANNER",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M630H",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M830Z",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "Service PIN ID.● 10083013"
+  },
+  {
+    "Modelo": "M525DN",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M525F",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "P4015N",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "SCANJET 7500",
+    "Seguimento": "SCANNER",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "HPE87660DN PLUS",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "Service PIN ID.● 04087617 "
+  },
+  {
+    "Modelo": "M252DW",
+    "Seguimento": "IMPRESSORA COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "DJ Z5200",
+    "Seguimento": "IMPRESSORA COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M880Z",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M880ZM",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "CM4540F",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": 7110,
+    "Seguimento": "IMPRESSORA COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "N9120",
+    "Seguimento": "SCANNER",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "785ZS",
+    "Seguimento": "HP PAGEWIDE MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "X585F",
+    "Seguimento": "HP PAGEWIDE MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "X585Z",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "DJ T830",
+    "Seguimento": "GRANDES FORMATOS COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "DJ T930",
+    "Seguimento": "PLOTTER",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M750DN",
+    "Seguimento": "IMPRESSORA COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M680F",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "8600 N911A",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "PRO 8710",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "E87650Z PLUS",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "Service PIN ID.● 04087617 "
+  },
+  {
+    "Modelo": "M577DN",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "276DW",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M806DN",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "7500A",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M553DN",
+    "Seguimento": "IMPRESSORA COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "T1300PS",
+    "Seguimento": "GRANDES FORMATOS COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M775DN",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M575F",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "E87650DN",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "Service PIN ID.● 04087617 "
+  },
+  {
+    "Modelo": "SCANJET 3000",
+    "Seguimento": "SCANNER",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "E75245DN",
+    "Seguimento": "IMPRESSORA COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "Service PIN ID.● 04075119"
+  },
+  {
+    "Modelo": "8500 FN1",
+    "Seguimento": "SCANNER",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "PRO 8000",
+    "Seguimento": "IMPRESSORA COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "X585DNM",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M4555F",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M3035XS",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "CP4525DN",
+    "Seguimento": "IMPRESSORA COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M603N",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "CP5525DN",
+    "Seguimento": "IMPRESSORA COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M651DN",
+    "Seguimento": "IMPRESSORA COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "T790PS",
+    "Seguimento": "GRANDES FORMATOS PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M775FM",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "PRO 577DW",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "DJ T2500PS",
+    "Seguimento": "GRANDES FORMATOS COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "DJ T920PS",
+    "Seguimento": "GRANDES FORMATOS COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M830ZM",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "CP3525DN",
+    "Seguimento": "IMPRESSORA COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "E72535Z PLUS",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "7000N",
+    "Seguimento": "SCANNER",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "8600 N911G",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "T1300",
+    "Seguimento": "GRANDES FORMATOS COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "HPDT2300",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "N6350",
+    "Seguimento": "SCANNER",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "SCANJET 7000",
+    "Seguimento": "SCANNER",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "251DW",
+    "Seguimento": "IMPRESSORA COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "PRO 8730",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "DJ T7100",
+    "Seguimento": "GRANDES FORMATOS COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "Z240",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "M575C",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "8500 FN2",
+    "Seguimento": "SCANNER",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M603XH",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "8500A PLUS",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M5035XS",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M525C",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "E67550DH",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "Service PIN ID.● 05068117"
+  },
+  {
+    "Modelo": "DESKTOP PRO G3",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "M402DN",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "DJ Z6800",
+    "Seguimento": "IMPRESSORA COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M651DNM",
+    "Seguimento": "IMPRESSORA COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "ELITEBK 1040",
+    "Seguimento": "NOTEBOOK",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "PRO A MT",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "PRO 8500",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "Z4",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "MONITOR",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "DJ T7200",
+    "Seguimento": "GRANDES FORMATOS COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "ELITED 705 G4",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "DJ T1100 MFP",
+    "Seguimento": "GRANDES FORMATOS COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "T1500PS",
+    "Seguimento": "IMPRESSORA COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "500 PS",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "P2055X",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M4345X",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "T850",
+    "Seguimento": "PLOTTER",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "T830 36",
+    "Seguimento": "PLOTTER",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "PROBOOK 445",
+    "Seguimento": "NOTEBOOK",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "PRO 4303FDW",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "SJ PRO 4500",
+    "Seguimento": "SCANNER",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M401DNE",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M452DW",
+    "Seguimento": "IMPRESSORA COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M401DN",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M9050",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M653DN",
+    "Seguimento": "IMPRESSORA COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "P2035",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "4200N",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "CM1312NFI",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "5200TN",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "PRO 3000",
+    "Seguimento": "SCANNER",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "PRO 8500A",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "M2727NF",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "PRO 8210",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "PRO 9020",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "1200W",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "T5000R",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "ELITE X2",
+    "Seguimento": "NOTEBOOK",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "X360 1030 G8",
+    "Seguimento": "NOTEBOOK",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "PRODESK 600 G1",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "PRO 3410",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ELITEBK 830 G8",
+    "Seguimento": "NOTEBOOK",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "PROBOOK 640 G4",
+    "Seguimento": "NOTEBOOK",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "T740",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "CHROMEBOOK 14G4",
+    "Seguimento": "NOTEBOOK",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "Z2",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "DESKTOP PRO G2",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ELITEBK X2 G4",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ELITEDESK 800G6",
+    "Seguimento": "NOTEBOOK",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ELITEDESK 800G5",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "445 G8",
+    "Seguimento": "NOTEBOOK",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "Z8",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "X360 830 G7",
+    "Seguimento": "NOTEBOOK",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "PRODESK 600",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "MONITOR P24VB",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ELITEBK 840 G7",
+    "Seguimento": "NOTEBOOK",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "T430",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "X360 1030 G7",
+    "Seguimento": "NOTEBOOK",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ELITEBK 830 G5",
+    "Seguimento": "NOTEBOOK",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ELITE DP E233",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "PRODESK 600 G2",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "Z6",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "CHROMEBOOK 11G6",
+    "Seguimento": "NOTEBOOK",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "PROBOOK 650 G1",
+    "Seguimento": "NOTEBOOK",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ELITEDESK 800G3",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "PROBOOK 640 G1",
+    "Seguimento": "NOTEBOOK",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "E72530DN",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "ELITEDESK 800G2",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ELITEDESK 800G1",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "PROBOOK 630 G8",
+    "Seguimento": "NOTEBOOK",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "EDA51",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "PRODESK 600 G6",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "M601",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "MFP M479",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "INTERMEC 3400",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "INTERMEC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "PB50",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "INTERMEC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "SLM4020",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "M4070FR",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ML-4510ND",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "SL-M4080FX",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "X4220RX",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "M5370LX",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "C4062FX",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ML4551ND",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "SL-C3060FR",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "M4580FX",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "CLX6260FR",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ML-5010ND",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "SCX5637FR",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ML-3750",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "SCX6555NX",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ML-5510ND",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "CLP775ND",
+    "Seguimento": "IMPRESSORA COLOR",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "CLP680ND",
+    "Seguimento": "IMPRESSORA COLOR",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "SCX-5835NX_NAC",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "K4250RX",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "CLX8640ND",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "K7600LX",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "X7600LX",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "X7400LX",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "SL-C3010ND",
+    "Seguimento": "IMPRESSORA COLOR",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "M5360RX",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "Boa tarde, Deivson",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "Tudo Bem!",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "SL-M2885",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "CLX8650ND",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "C4010ND",
+    "Seguimento": "IMPRESSORA COLOR",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "M4562FX",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ML-5515ND",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "SL-M4530ND",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "X7500LX",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "K7400LX",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "K7500LX",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "SCX6545N",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "SCX4828FN",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "SCX6555N",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ML2851ND",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "SCX-6555NX",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ML-3710",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "SCX5635FN",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "SCX-6545NX",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "MICRO SAMSUNG",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "SL-M3375FD",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "CLX9251",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "SCX5835SSTENAC",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "CLX-4195FW",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "SL-C460W",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "SLM4025",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "SL-M4075FR",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "SL-M3325FD",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "SL-C460FW",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "SL-M2070",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "SL-M2020",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "SL-M2020W",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "SL-M2835DW",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "SCX 8128NA",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "SL-C410W",
+    "Seguimento": "IMPRESSORA COLOR",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "SL-M2070FW",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ML-6510ND",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "SL-M2885FW",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "E73140z",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "Z230",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "E82660z",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "Service PIN ID.● 03082622"
+  },
+  {
+    "Modelo": "E78635Z",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "Service PIN ID.● 03078622"
+  },
+  {
+    "Modelo": "T650",
+    "Seguimento": "PLOTTER",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "E87760Z",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "KODAK S2070",
+    "Seguimento": "SCANNER",
+    "Fabricante": "KODAK",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "K I940",
+    "Seguimento": "SCANNER",
+    "Fabricante": "KODAK",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "KODAK I1150WN",
+    "Seguimento": "SCANNER",
+    "Fabricante": "KODAK",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "KODAK I1150",
+    "Seguimento": "SCANNER",
+    "Fabricante": "KODAK",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "K I2600",
+    "Seguimento": "SCANNER",
+    "Fabricante": "KODAK",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "KODAK I2800",
+    "Seguimento": "SCANNER",
+    "Fabricante": "KODAK",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "KODAK S2040",
+    "Seguimento": "SCANNER",
+    "Fabricante": "KODAK",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "KODAK S2050",
+    "Seguimento": "SCANNER",
+    "Fabricante": "KODAK",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "KODAK I2620",
+    "Seguimento": "SCANNER",
+    "Fabricante": "KODAK",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "K I3450",
+    "Seguimento": "SCANNER",
+    "Fabricante": "KODAK",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "KODAK S2060W",
+    "Seguimento": "SCANNER",
+    "Fabricante": "KODAK",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "KODAK I2820",
+    "Seguimento": "SCANNER",
+    "Fabricante": "KODAK",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "KODAK SS710",
+    "Seguimento": "SCANNER",
+    "Fabricante": "KODAK",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "KODAK S2080W",
+    "Seguimento": "SCANNER",
+    "Fabricante": "KODAK",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "KODAK I1190",
+    "Seguimento": "SCANNER",
+    "Fabricante": "KODAK",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "KODAK I2420",
+    "Seguimento": "SCANNER",
+    "Fabricante": "KODAK",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "KODAK I3200",
+    "Seguimento": "SCANNER",
+    "Fabricante": "KODAK",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "K I3400",
+    "Seguimento": "SCANNER",
+    "Fabricante": "KODAK",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "KODAK I2620PROD",
+    "Seguimento": "SCANNER",
+    "Fabricante": "KODAK",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "K I940 PROD",
+    "Seguimento": "SCANNER",
+    "Fabricante": "KODAK",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "KODAK E1025",
+    "Seguimento": "SCANNER",
+    "Fabricante": "KODAK",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "KODAK SS730",
+    "Seguimento": "SCANNER",
+    "Fabricante": "KODAK",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "K I4250",
+    "Seguimento": "SCANNER",
+    "Fabricante": "KODAK",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "M403",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "SINDOH",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "N707",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "SINDOH",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "WC7845",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "XEROX",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "C70",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "XEROX",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "XRX D95",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "XEROX",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "NUVERA 144",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "XEROX",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "XEROX 7500",
+    "Seguimento": "IMPRESSORA COLOR",
+    "Fabricante": "XEROX",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "WC5845C",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "XEROX",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "B9100",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "XEROX",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "C8130",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "XEROX",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "PHASER 8860",
+    "Seguimento": "IMPRESSORA COLOR",
+    "Fabricante": "XEROX",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "XRX C600",
+    "Seguimento": "IMPRESSORA COLOR",
+    "Fabricante": "XEROX",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "X8580DN",
+    "Seguimento": "IMPRESSORA COLOR",
+    "Fabricante": "XEROX",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "XRX C9000",
+    "Seguimento": "IMPRESSORA COLOR",
+    "Fabricante": "XEROX",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "C8055",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "XEROX",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "XRX B8075",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "XEROX",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "XRX B8090",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "XEROX",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "C8045",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "XEROX",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "XEROX 5550",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "XEROX",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "WC5945C",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "XEROX",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "V180",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "XEROX",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "XRX D125",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "XEROX",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "XEROX C8070",
+    "Seguimento": "IMPRESSORA COLOR",
+    "Fabricante": "XEROX",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "C8030",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "XEROX",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "B9125",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "XEROX",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "C9070",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "XEROX",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "WC7830",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "XEROX",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "PHASER 6700",
+    "Seguimento": "IMPRESSORA COLOR",
+    "Fabricante": "XEROX",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "RS51B0-TBDNWR",
+    "Seguimento": "SCANNER GATILHO DUPLO",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "Z 110XI4PLUS",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZEBRA GC420T",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZEBRA GK420T",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "Z S4M-DPI",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "Z HC100",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "Z ZM400",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "Z S4M",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZT411T",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "Z ZX P3",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZEBRA ZT230",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZEBRA GX420T",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "GT800",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZT410T",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZC300",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZEBRA MC33",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZEBRA ZQ520",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZEBRA ZD230",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZEBRA ZXP7",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "Z ZM600",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZT410 300DPI",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "Z S600",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "Z TLP2844",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "Z ZM4PLUS",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "Z 140XI4PLUS",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZEBRA ZD420",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "Z 220XI4PLUS",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZEBRA ZD220",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZEBRA ZD510",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZEBRA DS2208",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "Z ZM400C",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZEBRA GX430T",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZEBRA S500",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "Z GC420",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZT420",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "Z GX420T",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "Z S4M CUTTER",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "Z ZM400-DPI",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZD500",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "Z 170XI4PLUS",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZEBRA ZXP 3",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZEBRA ZXP",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZXP9",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZEBRA GT800",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZEBRA ZT421",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZEBRA 110XI4",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZEBRA ZT620",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZEBRA QLN420",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZT610 300 DPI",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZEBRA ZQ630",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZEBRA ZT610",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZEBRA ZT510",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZEBRA ZE500",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZEBRA P420I",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "Z P430I",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "Z RW420T",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "Z THERMAL",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZEBRA MC32",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "SE4500",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZEBRA P430I",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZEBRA ZQ521",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZEBRA MC33L",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZEBRA ZQ310",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "Z COLETOR TC57",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZEBRA ZD421TT",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZEBRA ZQ320",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZEBRA QL420",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZEBRA TC83",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "Z COLETOR TC21",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "Z COLETOR TC25",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZEBRA MC33M",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "Z COLETOR TC26",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZEBRA ZD620",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZEBRA DS3678",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZEBRA MC93",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZEBRA Z6M PLUS",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "IMPRESSORA RP4",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZEBRA ZQ510",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZB GX430T",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ZEBRA ZC100",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "MP4200 TH",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "BEMATECH",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "GLOBALMARK  MG2",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "BRADY",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "IR ADV C5035",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "CANON",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "IR ADV 6055",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "CANON",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "CANON 6255",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "CANON",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "V2000",
+    "Seguimento": "SCANNER",
+    "Fabricante": "COMPAQ",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "MICRO DELL",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "DELL",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "MICRO DELL 4700",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "DELL",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "NOTEBOOKS",
+    "Seguimento": "NOTEBOOK",
+    "Fabricante": "DELL",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "COMP DELL M-27",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "DELL",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "SOFTWARES ZEBRA",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "DELL",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "POWEREDGE T350",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "DELL",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ED CARD PRINTER",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "DUALYS",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "EVOLIS",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "DUALYS",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "EPSON T5070",
+    "Seguimento": "PLOTTER",
+    "Fabricante": "EPSON",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "FX2190",
+    "Seguimento": "MATRICIAL",
+    "Fabricante": "EPSON",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "EPSON T5270SR",
+    "Seguimento": "PLOTTER",
+    "Fabricante": "EPSON",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "EPSON LX350",
+    "Seguimento": "MATRICIAL",
+    "Fabricante": "EPSON",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "FX890",
+    "Seguimento": "MATRICIAL",
+    "Fabricante": "EPSON",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "EPSON LQ-2190",
+    "Seguimento": "MATRICIAL",
+    "Fabricante": "EPSON",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "EPSON LQ-2090",
+    "Seguimento": "MATRICIAL",
+    "Fabricante": "EPSON",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "EPSON M129H",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "EPSON",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "EPSON LX-300",
+    "Seguimento": "MATRICIAL",
+    "Fabricante": "EPSON",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "EPSON M129C",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "EPSON",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "LX300",
+    "Seguimento": "MATRICIAL",
+    "Fabricante": "EPSON",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "EPSON PRO9700",
+    "Seguimento": "PLOTTER",
+    "Fabricante": "EPSON",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "T7270DR",
+    "Seguimento": "PLOTTER",
+    "Fabricante": "EPSON",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "EPSON DS-30",
+    "Seguimento": "SCANNER",
+    "Fabricante": "EPSON",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "EPSON TM-T88V",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "EPSON",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "EPSON L805",
+    "Seguimento": "IMPRESSORA COLOR",
+    "Fabricante": "EPSON",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "10000XL",
+    "Seguimento": "SCANNER",
+    "Fabricante": "EPSON",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "EPSON DFX 9000",
+    "Seguimento": "MATRICIAL",
+    "Fabricante": "EPSON",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "LQ590II",
+    "Seguimento": "MATRICIAL",
+    "Fabricante": "EPSON",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "EPSON LQ 590",
+    "Seguimento": "MATRICIAL",
+    "Fabricante": "EPSON",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "FUJFI6140",
+    "Seguimento": "SCANNER",
+    "Fabricante": "FUJITSU",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "FUJFI5000",
+    "Seguimento": "SCANNER",
+    "Fabricante": "FUJITSU",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "FUJITSU S1300I",
+    "Seguimento": "SCANNER",
+    "Fabricante": "FUJITSU",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "FI7160",
+    "Seguimento": "SCANNER",
+    "Fabricante": "FUJITSU",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "FUJITSU SP1120",
+    "Seguimento": "SCANNER",
+    "Fabricante": "FUJITSU",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "FI 7600",
+    "Seguimento": "SCANNER",
+    "Fabricante": "FUJITSU",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "FUJ6770",
+    "Seguimento": "SCANNER",
+    "Fabricante": "FUJITSU",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "FUJFI6230",
+    "Seguimento": "SCANNER",
+    "Fabricante": "FUJITSU",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "FUJITSU FI7140",
+    "Seguimento": "SCANNER",
+    "Fabricante": "FUJITSU",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "SV600",
+    "Seguimento": "SCANNER",
+    "Fabricante": "FUJITSU",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "FUJFI6130",
+    "Seguimento": "SCANNER",
+    "Fabricante": "FUJITSU",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "FI7180",
+    "Seguimento": "SCANNER",
+    "Fabricante": "FUJITSU",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "FI 7480",
+    "Seguimento": "SCANNER",
+    "Fabricante": "FUJITSU",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "FUJFI5530C2",
+    "Seguimento": "SCANNER",
+    "Fabricante": "FUJITSU",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "FUJFI5110C",
+    "Seguimento": "SCANNER",
+    "Fabricante": "FUJITSU",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "FUJS1500",
+    "Seguimento": "SCANNER",
+    "Fabricante": "FUJITSU",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "FUJ IX500",
+    "Seguimento": "SCANNER",
+    "Fabricante": "FUJITSU",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "FI 7700",
+    "Seguimento": "SCANNER",
+    "Fabricante": "FUJITSU",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "FUJFI6110",
+    "Seguimento": "SCANNER",
+    "Fabricante": "FUJITSU",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "FUJITSU SP1130",
+    "Seguimento": "SCANNER",
+    "Fabricante": "FUJITSU",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "FUJS1300",
+    "Seguimento": "SCANNER",
+    "Fabricante": "FUJITSU",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "FUJ IX1600",
+    "Seguimento": "SCANNER",
+    "Fabricante": "FUJITSU",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "FUJITSU FI-800R",
+    "Seguimento": "SCANNER",
+    "Fabricante": "FUJITSU",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "FUJFI6240",
+    "Seguimento": "SCANNER",
+    "Fabricante": "FUJITSU",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "FI-7600",
+    "Seguimento": "SCANNER",
+    "Fabricante": "FUJITSU",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "FI-7700",
+    "Seguimento": "SCANNER",
+    "Fabricante": "FUJITSU",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "FI 7800",
+    "Seguimento": "SCANNER",
+    "Fabricante": "FUJITSU",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "IX100",
+    "Seguimento": "SCANNER",
+    "Fabricante": "FUJITSU",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "NOTEBOOK 240G6",
+    "Seguimento": "NOTEBOOK",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "PROBOOK 440 G7",
+    "Seguimento": "NOTEBOOK",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "PROBOOK 440 G9",
+    "Seguimento": "NOTEBOOK",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "PRODESKDM 400G3",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ELITEDESK 800G4",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ELITE BK 840G4",
+    "Seguimento": "NOTEBOOK",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "PRODESKSF 400G4",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ELITEDESK 705G3",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "MONITOR HP V19",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "MONITOR HP V22",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "MONITOR HP ELT",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ELITE BK 840G3",
+    "Seguimento": "NOTEBOOK",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "ELITEBK 640 G9",
+    "Seguimento": "NOTEBOOK",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "NOTEBOOK 240 G7",
+    "Seguimento": "NOTEBOOK",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "NOTEBOOK 240",
+    "Seguimento": "NOTEBOOK",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "240 G8",
+    "Seguimento": "NOTEBOOK",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "250 G8",
+    "Seguimento": "NOTEBOOK",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "PROBOOK 640 G8",
+    "Seguimento": "NOTEBOOK",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "PRODESK 400 G7",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "PRODESKDM 400G6",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "X57945Z",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "Service PIN ID.● 10580022"
+  },
+  {
+    "Modelo": "ZEBRA ZT231",
+    "Seguimento": "IMPRESSORA TÉRMICA",
+    "Fabricante": "ZEBRA",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "FUJFI8170",
+    "Seguimento": "SCANNER",
+    "Fabricante": "FUJITSU",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "X57945DN",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "Service PIN ID.● 10580022"
+  },
+  {
+    "Modelo": "K4350LX",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "SAMSUNG",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "M428FDW_220V",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "MP161",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "Ricoh",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "250 G9",
+    "Seguimento": "NOTEBOOK",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "C8135",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "XEROX",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "280 G9 SFF",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "PRO 4203DW",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "PIN ID.● etiqueta interna no equipamento "
+  },
+  {
+    "Modelo": "C7120",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "XEROX",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "E62565HS",
+    "Seguimento": "MULTIFUNCIONAL PB",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "E67660Z",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "verificar se tem PIN"
+  },
+  {
+    "Modelo": "ELITEDESK 800G9",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "PRODESK 400 G9",
+    "Seguimento": "MICRO COMPUTADOR",
+    "Fabricante": "HP_PC",
+    "SERVICE_PIN": "NÃO TEM PIN_ID"
+  },
+  {
+    "Modelo": "107W",
+    "Seguimento": "IMPRESSORA PB",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "MONITOR V19",
+    "Seguimento": "Micro Computador",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "SS M5370LX",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "SAMSUNG"
+  },
+  {
+    "Modelo": "SS M5360RX",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "SAMSUNG"
+  },
+  {
+    "Modelo": "SS C4062FX",
+    "Seguimento": "Multifuncional Color",
+    "Fabricante": "SAMSUNG"
+  },
+  {
+    "Modelo": "SS SCX6555N",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "SAMSUNG"
+  },
+  {
+    "Modelo": "280 G9 SFF",
+    "Seguimento": "Micro Computador",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "ELITEBK 640 G9",
+    "Seguimento": "Notebook",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "SS ML-4510ND",
+    "Seguimento": "Impressora PB",
+    "Fabricante": "SAMSUNG"
+  },
+  {
+    "Modelo": "M428DW",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "PRODESKDM 400G9",
+    "Seguimento": "Notebook",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "PROBOOK 440G",
+    "Seguimento": "Notebook",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "SS C4010ND",
+    "Seguimento": "Impressora Color",
+    "Fabricante": "SAMSUNG"
+  },
+  {
+    "Modelo": "SL-C480FW",
+    "Seguimento": "Multifuncional Color",
+    "Fabricante": "SAMSUNG"
+  },
+  {
+    "Modelo": "MONITOR V22",
+    "Seguimento": "Micro Computador",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "440 G9",
+    "Seguimento": "Notebook",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "SS SCX5637FR",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "SAMSUNG"
+  },
+  {
+    "Modelo": "SS SCX 8128NA",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "SAMSUNG"
+  },
+  {
+    "Modelo": "800 G9 DM",
+    "Seguimento": "Notebook",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "P22A G5",
+    "Seguimento": "Notebook",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "840 G9",
+    "Seguimento": "Notebook",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "P24A G5",
+    "Seguimento": "Notebook",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "P22B G5",
+    "Seguimento": "Notebook",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "K4350LX",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "SAMSUNG"
+  },
+  {
+    "Modelo": "SS M4580FX",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "SAMSUNG"
+  },
+  {
+    "Modelo": "SS ML-5515ND",
+    "Seguimento": "Impressora PB",
+    "Fabricante": "SAMSUNG"
+  },
+  {
+    "Modelo": "M454DN",
+    "Seguimento": "Impressora Color",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "K4300LX",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "SAMSUNG"
+  },
+  {
+    "Modelo": "SS SCX6555NX",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "SAMSUNG"
+  },
+  {
+    "Modelo": "ELITEDESK 600G9",
+    "Seguimento": "Notebook",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "X4300LX",
+    "Seguimento": "Multifuncional Color",
+    "Fabricante": "SAMSUNG"
+  },
+  {
+    "Modelo": "400 G9 DM",
+    "Seguimento": "Micro Computador",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "T850 PRINTER",
+    "Seguimento": "Multifuncional Color",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "7800DN",
+    "Seguimento": "Impressora Color",
+    "Fabricante": "XEROX"
+  },
+  {
+    "Modelo": "SCX-6555NX_BB",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "SAMSUNG"
+  },
+  {
+    "Modelo": "400 G9 SFF",
+    "Seguimento": "Notebook",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "SS ML-5510ND",
+    "Seguimento": "Impressora PB",
+    "Fabricante": "SAMSUNG"
+  },
+  {
+    "Modelo": "ELITEBK 840 G9",
+    "Seguimento": "Notebook",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "X55745DN",
+    "Seguimento": "Impressora Color",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "Service PIN ID.● 10570022"
+  },
+  {
+    "Modelo": "SL-M2070W",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "SAMSUNG"
+  },
+  {
+    "Modelo": "ZB FURY G10",
+    "Seguimento": "Notebook",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "ZEBRA ZQ620",
+    "Seguimento": "Impressora Térmica",
+    "Fabricante": "ZEBRA"
+  },
+  {
+    "Modelo": "M528DN",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "EDA52",
+    "Seguimento": "Impressora Térmica",
+    "Fabricante": "ZEBRA"
+  },
+  {
+    "Modelo": "840 G10",
+    "Seguimento": "Notebook",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "PRO 4203DW",
+    "Seguimento": "Impressora Color",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "T1700DR_PROD",
+    "Seguimento": "Multifuncional Color",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "SEMINOVO",
+    "Seguimento": "Notebook",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "1040 G10",
+    "Seguimento": "Notebook",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "640 G9",
+    "Seguimento": "Notebook",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "PC42T",
+    "Seguimento": "Impressora Térmica",
+    "Fabricante": "ZEBRA"
+  },
+  {
+    "Modelo": "SCANNER",
+    "Seguimento": "Scanner",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "MP301",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "SP5210SF",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "HL5350DN_SST",
+    "Seguimento": "Impressora PB",
+    "Fabricante": "BROTHER"
+  },
+  {
+    "Modelo": "DESKTOP 280G5",
+    "Seguimento": "Notebook",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "PROBOOK 445 G9",
+    "Seguimento": "Notebook",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "- PRO A MT",
+    "Seguimento": "Micro Computador",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "ZEBRA ZD421",
+    "Seguimento": "Impressora Térmica",
+    "Fabricante": "ZEBRA"
+  },
+  {
+    "Modelo": "MICRO LENOVO",
+    "Seguimento": "Micro Computador",
+    "Fabricante": "LENOVO"
+  },
+  {
+    "Modelo": "DESKTOP LENOVO",
+    "Seguimento": "Micro Computador",
+    "Fabricante": "LENOVO"
+  },
+  {
+    "Modelo": "FUJITSU FI-8150",
+    "Seguimento": "Scanner",
+    "Fabricante": "FUJITSU"
+  },
+  {
+    "Modelo": "M527DN",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "SC G4050",
+    "Seguimento": "Scanner",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "DRAGON G4",
+    "Seguimento": "Notebook",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "SS M4562FX",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "SAMSUNG"
+  },
+  {
+    "Modelo": "PRO X452DW",
+    "Seguimento": "Impressora Color",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "640 G10",
+    "Seguimento": "Notebook",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "SS SCX6545N",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "SAMSUNG"
+  },
+  {
+    "Modelo": "T730",
+    "Seguimento": "PLOTTER",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "M506N",
+    "Seguimento": "Impressora PB",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "X477DW",
+    "Seguimento": "Multifuncional Color",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "ZB 16 G9",
+    "Seguimento": "Notebook",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "PD45",
+    "Seguimento": "Impressora Térmica",
+    "Fabricante": "ZEBRA"
+  },
+  {
+    "Modelo": "Z2 G9",
+    "Seguimento": "Notebook",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "E27 G5",
+    "Seguimento": "Micro Computador",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "XEROX C8135",
+    "Seguimento": "Impressora Color",
+    "Fabricante": "XEROX"
+  },
+  {
+    "Modelo": "BENQ LU935",
+    "Seguimento": "Micro Computador",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "SS ML2851ND",
+    "Seguimento": "Impressora PB",
+    "Fabricante": "SAMSUNG"
+  },
+  {
+    "Modelo": "SS ML4551ND",
+    "Seguimento": "Impressora PB",
+    "Fabricante": "SAMSUNG"
+  },
+  {
+    "Modelo": "MP201SPF",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "SS ML-3710",
+    "Seguimento": "Impressora PB",
+    "Fabricante": "SAMSUNG"
+  },
+  {
+    "Modelo": "MFC8890DW_SST",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "BROTHER"
+  },
+  {
+    "Modelo": "MPC2051",
+    "Seguimento": "Multifuncional Color",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "SP4310N",
+    "Seguimento": "Impressora PB",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "SP4210N",
+    "Seguimento": "Impressora PB",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "800 G9 SFF",
+    "Seguimento": "Notebook",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "SPC820DN",
+    "Seguimento": "Impressora Color",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "ZB PWR G10",
+    "Seguimento": "Notebook",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "POLY-FOCUS",
+    "Seguimento": "Não Ricoh",
+    "Fabricante": "POLY"
+  },
+  {
+    "Modelo": "SS SCX-4833FD",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "SAMSUNG"
+  },
+  {
+    "Modelo": "ELITEBOOK 640G9",
+    "Seguimento": "Notebook",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "FUJITSU FI-8270",
+    "Seguimento": "Scanner",
+    "Fabricante": "FUJITSU"
+  },
+  {
+    "Modelo": "E87660Z PLUS",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "Service PIN ID.● 04087617 "
+  },
+  {
+    "Modelo": "M605N",
+    "Seguimento": "Impressora PB",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "SS SCX-6545NX",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "SAMSUNG"
+  },
+  {
+    "Modelo": "A450",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "A650",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "SP5200SF",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "SP5210DN",
+    "Seguimento": "Impressora PB",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "SCX5637FR_SSTE",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "SAMSUNG"
+  },
+  {
+    "Modelo": "MP5002SPF",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "SS SCX5635FN",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "SAMSUNG"
+  },
+  {
+    "Modelo": "P3015X",
+    "Seguimento": "Impressora PB",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "MP171SPF",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "Z4 G5",
+    "Seguimento": "Notebook",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "THINKPAD X380",
+    "Seguimento": "Notebook",
+    "Fabricante": "LENOVO"
+  },
+  {
+    "Modelo": "GX3000S",
+    "Seguimento": "Impressora Color",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "MP161SPF",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "MONITOR ELT",
+    "Seguimento": "Micro Computador",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "EDA51K",
+    "Seguimento": "Impressora Térmica",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "T850 MFP",
+    "Seguimento": "Multifuncional Color",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "MP2000P",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "MPW2400",
+    "Seguimento": "Grandes Formatos PB",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "MP161",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "SP4100N",
+    "Seguimento": "Impressora PB",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "7980G2D",
+    "Seguimento": "Impressora Térmica",
+    "Fabricante": "ZEBRA"
+  },
+  {
+    "Modelo": "1470G2D",
+    "Seguimento": "Impressora Térmica",
+    "Fabricante": "ZEBRA"
+  },
+  {
+    "Modelo": "T4M",
+    "Seguimento": "Impressora Térmica",
+    "Fabricante": "PRINTRONIX"
+  },
+  {
+    "Modelo": "M527CM",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "X4250LX",
+    "Seguimento": "Multifuncional Color",
+    "Fabricante": "SAMSUNG"
+  },
+  {
+    "Modelo": "ZEBRA MC22",
+    "Seguimento": "Impressora Térmica",
+    "Fabricante": "ZEBRA"
+  },
+  {
+    "Modelo": "POLY-B32X0",
+    "Seguimento": "Notebook",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "CK65",
+    "Seguimento": "Impressora Térmica",
+    "Fabricante": "HONEYWELL"
+  },
+  {
+    "Modelo": "FUJITSU FI-8190",
+    "Seguimento": "Scanner",
+    "Fabricante": "FUJITSU"
+  },
+  {
+    "Modelo": "PRODESKDM 405G6",
+    "Seguimento": "Micro Computador",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "SS SCX4828FN",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "SAMSUNG"
+  },
+  {
+    "Modelo": "SPC830DN",
+    "Seguimento": "Impressora Color",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "M506DN",
+    "Seguimento": "Impressora PB",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "XRX C7120",
+    "Seguimento": "Multifuncional Color",
+    "Fabricante": "XEROX"
+  },
+  {
+    "Modelo": "SP5200DN",
+    "Seguimento": "Impressora PB",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "ZT411",
+    "Seguimento": "Impressora Térmica",
+    "Fabricante": "ZEBRA"
+  },
+  {
+    "Modelo": "MPC5503",
+    "Seguimento": "Multifuncional Color",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "A1105",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "FT3813",
+    "Seguimento": "Copiadora PB",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "A450E",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "A1045",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "SAMSUNG"
+  },
+  {
+    "Modelo": "A1015",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "SAMSUNG"
+  },
+  {
+    "Modelo": "A1013",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "SAMSUNG"
+  },
+  {
+    "Modelo": "A2015",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "A1515MFP",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "AC104",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "AP410N",
+    "Seguimento": "Impressora PB",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "SS ML-6510ND",
+    "Seguimento": "Impressora PB",
+    "Fabricante": "SAMSUNG"
+  },
+  {
+    "Modelo": "CT60",
+    "Seguimento": "Impressora Térmica",
+    "Fabricante": "HONEYWELL"
+  },
+  {
+    "Modelo": "PD45S",
+    "Seguimento": "Impressora Térmica",
+    "Fabricante": "ZEBRA"
+  },
+  {
+    "Modelo": "PROC651EX",
+    "Seguimento": "Multifuncional Color",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "FUJITSU FI 8040",
+    "Seguimento": "Scanner",
+    "Fabricante": "FUJITSU"
+  },
+  {
+    "Modelo": "ZBOOK PWRG9",
+    "Seguimento": "Notebook",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "A2020P",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "M527C",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "B8170",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "XEROX"
+  },
+  {
+    "Modelo": "ZEBRA DS3608ER",
+    "Seguimento": "Impressora Térmica",
+    "Fabricante": "ZEBRA"
+  },
+  {
+    "Modelo": "A1515",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "BP20",
+    "Seguimento": "Impressora PB",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "A3025",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "A1018",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "SAMSUNG"
+  },
+  {
+    "Modelo": "SPC232DN",
+    "Seguimento": "Impressora Color",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "MP C401SP",
+    "Seguimento": "Multifuncional Color",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "COLETOR CT30XP",
+    "Seguimento": "Impressora Térmica",
+    "Fabricante": "HONEYWELL"
+  },
+  {
+    "Modelo": "X556DN",
+    "Seguimento": "Impressora Color",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "MPC305SPF",
+    "Seguimento": "Multifuncional Color",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "4250N",
+    "Seguimento": "Impressora PB",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "MPW3601",
+    "Seguimento": "Grandes Formatos PB",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "MONITOR DELL",
+    "Seguimento": "Micro Computador",
+    "Fabricante": "DELL"
+  },
+  {
+    "Modelo": "SPC420",
+    "Seguimento": "Impressora Color",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "MPC2050",
+    "Seguimento": "Multifuncional Color",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "MPC2500EFI",
+    "Seguimento": "Multifuncional Color",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "MPC2800",
+    "Seguimento": "Multifuncional Color",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "MPC6501SP",
+    "Seguimento": "Multifuncional Color",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "MPC300",
+    "Seguimento": "Multifuncional Color",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "SPC430DN",
+    "Seguimento": "Impressora Color",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "GX3050N",
+    "Seguimento": "Impressora Color",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "A3260CP",
+    "Seguimento": "Multifuncional Color",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "SPC410DN",
+    "Seguimento": "Impressora Color",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "LEXMARK 4227",
+    "Seguimento": "Matricial",
+    "Fabricante": "LEXMARK"
+  },
+  {
+    "Modelo": "MFC-8952DW",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "BROTHER"
+  },
+  {
+    "Modelo": "MP2001",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "ELITEBK X2 G8",
+    "Seguimento": "Notebook",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": 7740,
+    "Seguimento": "Multifuncional Color",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "M527F",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "E24T G5",
+    "Seguimento": "Notebook",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "ZEBRA ZT420",
+    "Seguimento": "Impressora Térmica",
+    "Fabricante": "ZEBRA"
+  },
+  {
+    "Modelo": "KODAK S3120",
+    "Seguimento": "Scanner",
+    "Fabricante": "KODAK"
+  },
+  {
+    "Modelo": "E58650",
+    "Seguimento": "Multifuncional Color",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "Service PIN ID.● 05055616"
+  },
+  {
+    "Modelo": "POLY-B33X5",
+    "Seguimento": "Notebook",
+    "Fabricante": "POLY"
+  },
+  {
+    "Modelo": "Z6 G5",
+    "Seguimento": "Notebook",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "ZEBRA MC27",
+    "Seguimento": "Impressora Térmica",
+    "Fabricante": "ZEBRA"
+  },
+  {
+    "Modelo": "MPC2003SP",
+    "Seguimento": "Multifuncional Color",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "CL3000",
+    "Seguimento": "Impressora Color",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "AP610N",
+    "Seguimento": "Impressora PB",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "M506",
+    "Seguimento": "Impressora PB",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "MP2501SP",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "ZB FURY 16 G9",
+    "Seguimento": "Notebook",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "M527",
+    "Seguimento": "Multifuncional PB",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "X360 1040 G9",
+    "Seguimento": "Notebook",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "E77830Z PLUS",
+    "Seguimento": "Multifuncional Color",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "Service PIN ID.● 04077817"
+  },
+  {
+    "Modelo": "POLY-V5200",
+    "Seguimento": "Notebook",
+    "Fabricante": "POLY"
+  },
+  {
+    "Modelo": "POLY-B5220",
+    "Seguimento": "Notebook",
+    "Fabricante": "POLY"
+  },
+  {
+    "Modelo": "SPC242SF",
+    "Seguimento": "Multifuncional Color",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "MPC3002",
+    "Seguimento": "Multifuncional Color",
+    "Fabricante": "RICOH"
+  },
+  {
+    "Modelo": "OKI C911",
+    "Seguimento": "Impressora Color",
+    "Fabricante": "OKI"
+  },
+  {
+    "Modelo": "Z4 G4",
+    "Seguimento": "Notebook",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "Z840",
+    "Seguimento": "Notebook",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "PROBOOK 440G7"
+  },
+  {
+    "Modelo": "E60165DN_001",
+    "SERVICE_PIN": "Service PIN ID.●05060717"
+  },
+  {
+    "Modelo": "FUJITSU FI-8170"
+  },
+  {
+    "Modelo": "PRO4003DW_001"
+  },
+  {
+    "Modelo": "GALAXY TAB A 8"
+  },
+  {
+    "Modelo": "E527DN"
+  },
+  {
+    "Modelo": "E82660"
+  },
+  {
+    "Modelo": "E87660DN PLUS",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP",
+    "SERVICE_PIN": "Service PIN ID.● 04087617 "
+  },
+  {
+    "Modelo": " P77740DN"
+  },
+  {
+    "Modelo": "MONITOR "
+  },
+  {
+    "Modelo": "E60165DN ",
+    "SERVICE_PIN": "Service PIN ID.●5060717"
+  },
+  {
+    "Modelo": "Todos PC"
+  },
+  {
+    "Modelo": "Todos geral"
+  },
+  {
+    "Modelo": "M776ZS",
+    "Seguimento": "MULTIFUNCIONAL COLOR",
+    "Fabricante": "HP"
+  },
+  {
+    "Modelo": "Z8 G5",
+    "Seguimento": "Workstation Desktop",
+    "Fabricante": "HP_PC"
+  }
+]
