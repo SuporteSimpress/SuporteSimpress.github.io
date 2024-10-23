@@ -22,9 +22,10 @@ h1{
     text-align: center;
 }
 
-h2,h4{
+h2,h4, h6{
     color: white;
     text-align: center;
+    margin: auto;
 }
 
 .table-hover{
@@ -112,10 +113,11 @@ h2,h4{
 }
 
 #lbPin{
-    margin-left: 50px;
+    margin-left: 0px;
 }
 
 #radios{
     margin: 5px;
-    margin-left: 10px;
+    margin-left: 5px;
+    font-size: 12px;
 }
