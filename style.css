@@ -113,13 +113,13 @@ h2,h4, h6{
 }
 
 #lbPin{
-    margin: auto;
-    font-size: 13px;
+    
+    font-size: 12px;
 
 }
 
 #radios{
-    margin: 5px;
+    margin: 5x;
     margin-left: 5px;
     font-size: 12px;
 }
