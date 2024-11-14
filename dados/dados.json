@@ -22965,5 +22965,20 @@
     "Modelo": "M408DN",
     "CÓDIGO": "JC92-02611A",
     "Descrição": "JUNTA PBA-CRUMML- CONECTOR DA UNIDADE DE IMAGEM"
+  },
+  {
+    "Modelo": "X4300LX",
+    "CÓDIGO": "JC90-01140B",
+    "Descrição": "Bandeja 1"
+  },
+  {
+    "Modelo": "X4300LX",
+    "CÓDIGO": "JC90-01141B",
+    "Descrição": "Bandeja 2"
+  },
+  {
+    "Modelo": "M402 DNE",
+    "CÓDIGO": "RM2-9816-000CN",
+    "Descrição": "Placa Fonte - LVPS  110V"
   }
 ]
