@@ -7958,8 +7958,14 @@
   {
     "Modelo": "E60065DN",
     "CÓDIGO": "RM2-6797-010SI",
-    "Descrição": "L.V. POWER SUPPLY PCB ASSY",
+    "Descrição": "PLACA FONTE 110V - LVPS",
     "Preco_Unitario": 645.69
+  },
+  {
+    "Modelo": "E60065DN",
+    "CÓDIGO": "RM2-6798-000CN",
+    "Descrição": "PLACA FONTE 220V - LVPS",
+    "Preco_Unitario": 1223.22
   },
   {
     "Modelo": "X7500LX",
@@ -15752,7 +15758,13 @@
   {
     "Modelo": "E60165DN",
     "CÓDIGO": "RM2-6797-010CN",
-    "Descrição": "L.V. POWER SUPPLY PCB ASSY.",
+    "Descrição": "PLACA FONTE 110V - LVPS",
+    "Preco_Unitario": 1223.22
+  },
+  {
+    "Modelo": "E60165DN",
+    "CÓDIGO": "RM2-6798-000CN",
+    "Descrição": "PLACA FONTE 220V - LVPS",
     "Preco_Unitario": 1223.22
   },
   {
@@ -17860,8 +17872,14 @@
   {
     "Modelo": "E60165DN",
     "CÓDIGO": "RM2-6797-000CN",
-    "Descrição": "FONTE - Low voltage power supply (LVPS)",
+    "Descrição": "PLACA FONTE 110V - LVPS",
     "Preco_Unitario": 2409.29
+  },
+  {
+    "Modelo": "E60165DN ",
+    "CÓDIGO": "RM2-6798-000CN",
+    "Descrição": "PLACA FONTE 220V - LVPS",
+    "Preco_Unitario": 1223.22
   },
   {
     "Modelo": "E60065DN",
