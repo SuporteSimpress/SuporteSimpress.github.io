@@ -21530,6 +21530,16 @@
   },
   {
     "Modelo": "X57945Z",
+    "CÓDIGO": "RM2-3501-000CN",
+    "Descrição": "Motor de elevação da gaveta - Lifter drive"
+  },
+  {
+    "Modelo": "X57945DN",
+    "CÓDIGO": "RM2-3501-000CN",
+    "Descrição": "Motor de elevação da gaveta - Lifter drive"
+  },
+  {
+    "Modelo": "X57945Z",
     "CÓDIGO": "527G0A",
     "Descrição": "KIT DE FUSOR HP LASERJET 110V",
     "Vida_Util": "225K",
@@ -22498,6 +22508,11 @@
   },
   {
     "Modelo": "X57945DN",
+    "CÓDIGO": "RM2-3616-000CN",
+    "Descrição": "Bandeja Principal - Cassette assembly"
+  },
+  {
+    "Modelo": "X57945Z",
     "CÓDIGO": "RM2-3616-000CN",
     "Descrição": "Bandeja Principal - Cassette assembly"
   },
