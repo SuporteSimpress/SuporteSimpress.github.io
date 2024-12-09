@@ -55,6 +55,18 @@
     "Preco_Unitario": 1561.22
   },
   {
+    "Modelo": "X4220RX",
+    "CÓDIGO": "JC97-04467A",
+    "Descrição": "ADF - ALIMENTADOR AUTOMATICO DE PAPEL - RADF",
+    "Preco_Unitario": 1561.22
+  },
+  {
+    "Modelo": "X4300LX",
+    "CÓDIGO": "JC97-04498A",
+    "Descrição": "ADF - ALIMENTADOR AUTOMATICO DE PAPEL - DSDF",
+    "Preco_Unitario": 1561.22
+  },
+  {
     "Modelo": "E77830DN",
     "CÓDIGO": "X3A92-60003",
     "Descrição": "PRINCIPAL - FORMATTER",
