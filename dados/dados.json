@@ -60,12 +60,12 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC92-02808A",
         "Descrição": "PRINCIPAL - PLACA PBA MAIN",
         "Vida_Util": "",
         "Preco_Unitario": "441.76",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "12/17/24",
         "": "",
         "filtro": ""
     },
@@ -1910,12 +1910,12 @@
         "filtro": ""
     },
     {
-        "Modelo": "ELITE BK 840G3",
+        "Modelo": "ELITEBK 840 G3",
         "CÓDIGO": "836308-201",
         "Descrição": "CONJUNTO DE TECLADO RETROILUMINADO",
         "Vida_Util": "",
         "Preco_Unitario": "411.05",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "12/16/24",
         "": "",
         "filtro": ""
     },
@@ -5940,7 +5940,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC92-02809A",
         "Descrição": "OPE - PBA DO PAINEL",
         "Vida_Util": "",
@@ -5950,7 +5950,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC44-00222B",
         "Descrição": "FONTE - PLACA SMPS V1",
         "Vida_Util": "",
@@ -5960,7 +5960,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC93-00540B",
         "Descrição": "ROLLER-TRAY 2-X",
         "Vida_Util": "200000",
@@ -5970,7 +5970,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC66-02842A",
         "Descrição": "ROLO DE TRANSFERENCIA",
         "Vida_Util": "100000",
@@ -5980,7 +5980,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "SS395-67006-SI",
         "Descrição": "ROLETE DE ALIMENTAÇÃO ",
         "Vida_Util": "100000",
@@ -5990,7 +5990,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC82-00380A",
         "Descrição": "ROLETE DE SEPARAÇÃO DO ADF",
         "Vida_Util": "100000",
@@ -6000,7 +6000,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC82-00379A",
         "Descrição": "BANDEJA DE ENTRADA DO ADF",
         "Vida_Util": "100000",
@@ -6010,7 +6010,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC91-01023A",
         "Descrição": "UNIDADE DE FUSÃO - FUSER (110V) ",
         "Vida_Util": "90000",
@@ -6020,7 +6020,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC73-00328A",
         "Descrição": "BORRACHA DO ROLO ALIMENTADOR",
         "Vida_Util": "100000",
@@ -6030,7 +6030,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC90-01540A",
         "Descrição": "ROLETE DE ARRANQUE",
         "Vida_Util": "100000",
@@ -6040,7 +6040,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC82-00378A",
         "Descrição": "ROLETE DE ALIMENTAÇÃO",
         "Vida_Util": "100000",
@@ -6050,7 +6050,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC93-00540A",
         "Descrição": "FRAME-MAIN PICKUP ROLLER CLX 9201/0 EXP",
         "Vida_Util": "100000",
@@ -6060,7 +6060,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC66-03043A",
         "Descrição": "ROLETE APANHADOR",
         "Vida_Util": "100000",
@@ -6070,7 +6070,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC93-00336A",
         "Descrição": "MOTOR DE PASSO",
         "Vida_Util": "",
@@ -6080,7 +6080,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC93-01230A",
         "Descrição": "UNIDADE DE MOVIMENTAÇÃO DA FUSÃO",
         "Vida_Util": "",
@@ -6090,7 +6090,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC93-01229A",
         "Descrição": "UNIDADE DE MOVIMENTAÇÃO PRINCIPAL",
         "Vida_Util": "",
@@ -6100,7 +6100,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC67-00828A",
         "Descrição": "LIMITADOR DE TORQUE DO ACOPLADOR",
         "Vida_Util": "",
@@ -6110,7 +6110,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC39-02389A",
         "Descrição": "CONECTOR CIS PLATEN",
         "Vida_Util": "",
@@ -6120,7 +6120,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC95-02003A",
         "Descrição": "TAMPA TRASEIRA",
         "Vida_Util": "",
@@ -6130,7 +6130,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC92-02512A",
         "Descrição": "PBA-RAM DIMM 1024MB",
         "Vida_Util": "",
@@ -6140,7 +6140,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC34-00001A",
         "Descrição": "MICROCHAVE DE CONTATO",
         "Vida_Util": "",
@@ -6150,7 +6150,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC97-04616A",
         "Descrição": "PAINEL MONTADO",
         "Vida_Util": "",
@@ -6160,7 +6160,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC31-00149A-SI",
         "Descrição": "MOTOR DE PASSO DC 24V",
         "Vida_Util": "",
@@ -6170,7 +6170,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC47-00035C",
         "Descrição": "EMBREAGEM ELÉTRICA",
         "Vida_Util": "",
@@ -6180,7 +6180,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC97-04170A",
         "Descrição": "UNIDADE DE TRANSMISSÃO",
         "Vida_Util": "",
@@ -6190,7 +6190,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC59-00035A",
         "Descrição": "HDD - UNIDADE DE DISCO RÍGIDO 320GB",
         "Vida_Util": "",
@@ -6200,7 +6200,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC97-04699A",
         "Descrição": "LSU MONO",
         "Vida_Util": "",
@@ -6210,7 +6210,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC97-04451B",
         "Descrição": "ADF MONTADO",
         "Vida_Util": "",
@@ -6220,7 +6220,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC90-01534A",
         "Descrição": "CONJUNTO DE ALIMENTAÇÃO DA BANDEJA MANUAL",
         "Vida_Util": "",
@@ -6230,7 +6230,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC97-04612APRS",
         "Descrição": "PLATEN",
         "Vida_Util": "",
@@ -6240,7 +6240,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC90-01527A",
         "Descrição": "GAVETA PARA PAPEL TIPO K",
         "Vida_Util": "",
@@ -6250,7 +6250,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC82-00375A",
         "Descrição": "BARRA BRANCA CIS (ADF)",
         "Vida_Util": "",
@@ -6260,7 +6260,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC90-01541A",
         "Descrição": "DUPLEX",
         "Vida_Util": "",
@@ -6270,7 +6270,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC93-01231A",
         "Descrição": "UNIDADE DE MOVIMENTAÇÃO SUPERIOR",
         "Vida_Util": "",
@@ -6280,7 +6280,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC31-00075APRS",
         "Descrição": "MOTOR BLDC",
         "Vida_Util": "",
@@ -6290,7 +6290,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC39-02121A-SI",
         "Descrição": "CABO FLEXÍVEL",
         "Vida_Util": "",
@@ -6300,7 +6300,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC93-01232A",
         "Descrição": "FRAME - fechamento da bandeja 1",
         "Vida_Util": "",
@@ -6310,7 +6310,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "RICOH-1",
         "Descrição": "CABO CINZA COM PLUG 14136 20A",
         "Vida_Util": "",
@@ -6320,7 +6320,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC63-05154A-SI",
         "Descrição": "TAMPA DA BANDEJA MULTIFUNCIONAL",
         "Vida_Util": "",
@@ -6330,7 +6330,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC93-00334A",
         "Descrição": "FRAME TRASEIRO (saida do fusor)",
         "Vida_Util": "",
@@ -6340,7 +6340,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "RICOH-4",
         "Descrição": "CABO PRETOR COM PLUG 14136 10A",
         "Vida_Util": "",
@@ -6350,7 +6350,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "0609-001573",
         "Descrição": "CIS - SENSOR DE CONTATO DE IMAGEM",
         "Vida_Util": "",
@@ -6360,17 +6360,17 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC39-02391A",
-        "Descrição": "BOTÃO LIGA / DESLIGA COM FIAÇÃO PARA A PLACA FONTE",
+        "Descrição": "CABO DE ENERGIA COM BOTÃO",
         "Vida_Util": "",
         "Preco_Unitario": "550.98",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "12/17/24",
         "": "",
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC61-07594APRS",
         "Descrição": "FRENTE DE SUPORTE SL-M4030",
         "Vida_Util": "",
@@ -6380,7 +6380,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC39-02379A",
         "Descrição": "CABO FLAT",
         "Vida_Util": "",
@@ -6390,7 +6390,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC93-01226APRS",
         "Descrição": "PICK UP",
         "Vida_Util": "",
@@ -6400,7 +6400,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC66-04808A-SI",
         "Descrição": "GEAR-RDCN OPC M4030 POM 0.5/0.",
         "Vida_Util": "",
@@ -6410,7 +6410,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC31-00075B",
         "Descrição": "MOTOR BLDC (B)",
         "Vida_Util": "",
@@ -6420,7 +6420,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC63-04347AR",
         "Descrição": "FOLHA",
         "Vida_Util": "",
@@ -6430,7 +6430,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC82-00377A",
         "Descrição": "TAMPA",
         "Vida_Util": "",
@@ -6440,7 +6440,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC93-01244A-SI",
         "Descrição": "GUIA DE ALIMENTAÇÃO",
         "Vida_Util": "",
@@ -6450,7 +6450,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC93-00349A",
         "Descrição": "ROLO DE DIRECIONAMENTO DE SAÍDA",
         "Vida_Util": "",
@@ -6460,7 +6460,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC96-01672A-SI",
         "Descrição": "TERMINAL",
         "Vida_Util": "",
@@ -6470,7 +6470,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC61-04068A-SI",
         "Descrição": "SUPORTE",
         "Vida_Util": "",
@@ -6480,7 +6480,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC66-04831A",
         "Descrição": "ALÇA DE ARTICULAÇÃO DA PORTA",
         "Vida_Util": "",
@@ -6490,7 +6490,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC81-08708A_AR",
         "Descrição": "UNIDADE ALIMENTADOR",
         "Vida_Util": "",
@@ -6500,7 +6500,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC66-04830A",
         "Descrição": "LEVER",
         "Vida_Util": "",
@@ -6510,7 +6510,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC93-01210A",
         "Descrição": "FRAME-EXIT SL-M4030 SEC",
         "Vida_Util": "",
@@ -6520,7 +6520,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC66-01664A-SI",
         "Descrição": "SEGUNDO ROLO DE PRESSÃO",
         "Vida_Util": "",
@@ -6530,7 +6530,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC07-00035APRS",
         "Descrição": "LCD TSP 800X480 SAMSUNG M4080",
         "Vida_Util": "",
@@ -6540,7 +6540,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "6602-003602PRS",
         "Descrição": "ENGRENAGEM DE TEMPORIZAÇÃO DE CORREIA",
         "Vida_Util": "",
@@ -6550,7 +6550,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC82-00374A",
         "Descrição": "CONJUNTO DO MOTOR DE ALIMENTAÇÃO DO PAPEL",
         "Vida_Util": "",
@@ -6560,7 +6560,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC82-00376A",
         "Descrição": "UNIDADE DE PASSAGEM DO PAPEL",
         "Vida_Util": "",
@@ -6570,7 +6570,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC93-00325A",
         "Descrição": "FRAME-UPPER CRUM",
         "Vida_Util": "",
@@ -6580,7 +6580,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC98-04618A",
         "Descrição": "ETC-HDD SL-M4080SEC (descontinuado)",
         "Vida_Util": "",
@@ -6590,7 +6590,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC39-02387A",
         "Descrição": "CABO DO PAINEL",
         "Vida_Util": "",
@@ -6600,7 +6600,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "0604-001325",
         "Descrição": "SENSOR - FOTO INTERRUPTOR DIVERSOS ",
         "Vida_Util": "",
@@ -6610,7 +6610,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC31-00144A",
         "Descrição": "MOTOR 24V DC",
         "Vida_Util": "",
@@ -6620,7 +6620,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC66-02846A-SI",
         "Descrição": "ROLO DE AQUECIMENTO",
         "Vida_Util": "",
@@ -6630,7 +6630,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC97-04613A",
         "Descrição": "MFA - CONJUNTO ADF + MESA - M4080.SEC",
         "Vida_Util": "",
@@ -6640,7 +6640,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "105934-045PRS",
         "Descrição": "SENSOR REFLETIVO",
         "Vida_Util": "",
@@ -6650,7 +6650,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC66-04785A",
         "Descrição": "ATUADOR",
         "Vida_Util": "",
@@ -6660,7 +6660,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC90-01532A",
         "Descrição": "CASSETE SUB-SEPARATION",
         "Vida_Util": "",
@@ -6670,7 +6670,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC66-01663A-SI",
         "Descrição": "ROLO DE PRESSÃO",
         "Vida_Util": "",
@@ -6680,7 +6680,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC39-02386A",
         "Descrição": "CABO USB",
         "Vida_Util": "",
@@ -6690,7 +6690,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC97-04452A",
         "Descrição": "SUPORTE DO ADF LADO DIREITO",
         "Vida_Util": "",
@@ -6700,7 +6700,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC97-04453A",
         "Descrição": "SUPORTE DO ADF LADO ESQUERDO",
         "Vida_Util": "",
@@ -6710,7 +6710,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "4713-001566-SI",
         "Descrição": "LÂMPADA DA FUSÃO",
         "Vida_Util": "",
@@ -6720,7 +6720,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC95-02002A",
         "Descrição": "COBERTURA PLASTICA LATERAL DIREITA",
         "Vida_Util": "",
@@ -6730,7 +6730,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "0604-001393",
         "Descrição": "SENSOR - FOTO INTERRUPTOR DIVERSOS ",
         "Vida_Util": "",
@@ -6740,7 +6740,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC92-02818A",
         "Descrição": "TECLADO PBA Númerico do painel",
         "Vida_Util": "",
@@ -6750,7 +6750,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC07-00028A",
         "Descrição": "LCD - painel item 2",
         "Vida_Util": "",
@@ -6760,7 +6760,7 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-M4080FX",
+        "Modelo": "M4080FX",
         "CÓDIGO": "JC07-00029A",
         "Descrição": "LCD - painel item 8",
         "Vida_Util": "",
@@ -11301,11 +11301,11 @@
     },
     {
         "Modelo": "X4220RX",
-        "CÓDIGO": "JC82-00361A-SI",
-        "Descrição": "PLACA DE CIRCUITO IMPRESSO MONTADA",
+        "CÓDIGO": "JC82-00361A",
+        "Descrição": "PLACA PBA DO PAINEL (validar pedir o tablet montado)",
         "Vida_Util": "",
         "Preco_Unitario": "396.08",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "12/16/24",
         "": "",
         "filtro": ""
     },
@@ -12022,10 +12022,10 @@
     {
         "Modelo": "M5370LX",
         "CÓDIGO": "JC97-04427A",
-        "Descrição": "FRAME DO DSDF",
+        "Descrição": "Miolo do ADF (FRAME DO DSDF)",
         "Vida_Util": "",
         "Preco_Unitario": "0",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "12/13/24",
         "": "",
         "filtro": ""
     },
@@ -12033,9 +12033,9 @@
         "Modelo": "CLP775ND",
         "CÓDIGO": "CLT-T508",
         "Descrição": "CLT-T508/XAZ UNIDADE DE TRANSFERÊNCIA 50K PÁGINAS",
-        "Vida_Util": "50000",
+        "Vida_Util": "",
         "Preco_Unitario": "1162.49",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "12/13/24",
         "": "",
         "filtro": ""
     },
@@ -12045,7 +12045,7 @@
         "Descrição": "GUIA DE SAÍDA DO PAPEL",
         "Vida_Util": "",
         "Preco_Unitario": "849.67",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "12/13/24",
         "": "",
         "filtro": ""
     },
@@ -15020,12 +15020,12 @@
         "filtro": ""
     },
     {
-        "Modelo": "ELITE BK 840G3",
+        "Modelo": "ELITEBK 840 G3",
         "CÓDIGO": "836307-201",
         "Descrição": "MONTAGEM DO TECLADO",
         "Vida_Util": "",
         "Preco_Unitario": "209.55",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "12/16/24",
         "": "",
         "filtro": ""
     },
@@ -18710,12 +18710,12 @@
         "filtro": ""
     },
     {
-        "Modelo": "ELITE BK 840G3",
+        "Modelo": "ELITEBK 840 G3",
         "CÓDIGO": "800513-001",
         "Descrição": "BATERIA ELITEBOOK 840",
         "Vida_Util": "",
         "Preco_Unitario": "344.31",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "12/16/24",
         "": "",
         "filtro": ""
     },
@@ -19470,12 +19470,12 @@
         "filtro": ""
     },
     {
-        "Modelo": "ELITE BK 840G3",
+        "Modelo": "ELITEBK 840 G3",
         "CÓDIGO": "490371-202",
         "Descrição": "CABO DE ALIMENTAÇÃO (PRETO) CONDUTOR DE 3 FIOS 18 AWG",
         "Vida_Util": "",
         "Preco_Unitario": "75.63",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "12/16/24",
         "": "",
         "filtro": ""
     },
@@ -23660,12 +23660,12 @@
         "filtro": ""
     },
     {
-        "Modelo": "ELITE BK 840G3",
+        "Modelo": "ELITEBK 840 G3",
         "CÓDIGO": "823951-001",
         "Descrição": "DISPLAY",
         "Vida_Util": "",
         "Preco_Unitario": "538.49",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "12/16/24",
         "": "",
         "filtro": ""
     },
@@ -24120,22 +24120,22 @@
         "filtro": ""
     },
     {
-        "Modelo": "ELITE BK 840G3",
+        "Modelo": "ELITEBK 840 G3",
         "CÓDIGO": "800513-006",
         "Descrição": "BATERIA 4 08AH",
         "Vida_Util": "",
         "Preco_Unitario": "429.37",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "12/16/24",
         "": "",
         "filtro": ""
     },
     {
-        "Modelo": "ELITE BK 840G3",
+        "Modelo": "ELITEBK 840 G3",
         "CÓDIGO": "837846-001",
         "Descrição": "PLACA USB/VGA",
         "Vida_Util": "",
         "Preco_Unitario": "45.59",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "12/16/24",
         "": "",
         "filtro": ""
     },
@@ -25890,12 +25890,12 @@
         "filtro": ""
     },
     {
-        "Modelo": "ELITE BK 840G3",
+        "Modelo": "ELITEBK 840 G3",
         "CÓDIGO": "710412-001-SI",
         "Descrição": "ADAPTADOR AC",
         "Vida_Util": "",
         "Preco_Unitario": "217.73",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "12/16/24",
         "": "",
         "filtro": ""
     },
@@ -26590,12 +26590,12 @@
         "filtro": ""
     },
     {
-        "Modelo": "ELITE BK 840G3",
+        "Modelo": "ELITEBK 840 G3",
         "CÓDIGO": "821173-001",
         "Descrição": "BASE SUPERIOR",
         "Vida_Util": "",
         "Preco_Unitario": "219.99",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "12/16/24",
         "": "",
         "filtro": ""
     },
@@ -27970,12 +27970,12 @@
         "filtro": ""
     },
     {
-        "Modelo": "ELITE BK 840G3",
+        "Modelo": "ELITEBK 840 G3",
         "CÓDIGO": "714657-001",
         "Descrição": "ADAPTADOR DE ALIMENTAÇÃO CA INTELIGENTE",
         "Vida_Util": "",
         "Preco_Unitario": "561.42",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "12/16/24",
         "": "",
         "filtro": ""
     },
@@ -33020,12 +33020,12 @@
         "filtro": ""
     },
     {
-        "Modelo": "ELITE BK 840G3",
+        "Modelo": "ELITEBK 840 G3",
         "CÓDIGO": "800513-001-SI",
         "Descrição": "BATERIA ELITEBOOK 840",
         "Vida_Util": "",
         "Preco_Unitario": "382.66",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "12/16/24",
         "": "",
         "filtro": ""
     },
@@ -38636,6 +38636,46 @@
         "Vida_Util": "",
         "Preco_Unitario": "",
         "Ultima_atualização": "12/9/24",
+        "": "",
+        "filtro": ""
+    },
+    {
+        "Modelo": "M479FDW",
+        "CÓDIGO": "RM2-5612-000CN",
+        "Descrição": "Unidade Laser - LSU",
+        "Vida_Util": "",
+        "Preco_Unitario": "",
+        "Ultima_atualização": "12/12/24",
+        "": "",
+        "filtro": ""
+    },
+    {
+        "Modelo": "M454DN",
+        "CÓDIGO": "RM2-5612-000CN",
+        "Descrição": "Unidade Laser - LSU",
+        "Vida_Util": "",
+        "Preco_Unitario": "",
+        "Ultima_atualização": "",
+        "": "",
+        "filtro": ""
+    },
+    {
+        "Modelo": "M454DW",
+        "CÓDIGO": "RM2-5612-000CN",
+        "Descrição": "Unidade Laser - LSU",
+        "Vida_Util": "",
+        "Preco_Unitario": "",
+        "Ultima_atualização": "",
+        "": "",
+        "filtro": ""
+    },
+    {
+        "Modelo": "PRO 4203DW",
+        "CÓDIGO": "RM2-2811-000CN",
+        "Descrição": "UNIDADE DE TRANSFERENCIA",
+        "Vida_Util": "50K",
+        "Preco_Unitario": "0",
+        "Ultima_atualização": "12/12/24",
         "": "",
         "filtro": ""
     }
