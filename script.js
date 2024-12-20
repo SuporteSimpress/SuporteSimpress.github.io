@@ -29,7 +29,7 @@
 
 //FUNÇÕES QUE VÃO SER EXECUTADAS NO CARREGAMENTO
  window.onload =  function(){   
-    carrega_galeria();
+    //carrega_galeria();
     carregaModelo()
     }     
  
