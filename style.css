@@ -105,7 +105,7 @@ h4, h6{
 }
 #exibicao{    
     overflow:           auto;
-    font-size:          0.8rem;
+    font-size:          11px;
     font-weight:        600;                /* Semi-negrito */
     display:            flow-root;
     max-height:         80%; 
