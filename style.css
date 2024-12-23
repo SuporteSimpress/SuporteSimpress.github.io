@@ -1,125 +1,142 @@
-
-body{    
-    
-    height: 100%;
+    body{    
+    height:             100%;
 }
-
 #container{
-    background-color: #0079ba;
-    width: 100wh;
-    height: 100vh;
-    display: block;
-    margin: auto;
-    padding: 5px;
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    background-color:   #002C70;
+    width:              100wh;
+    height:             100vh;
+    display:            block;
+    margin:             auto;
+    padding:            5px;
+    position:           fixed;
+    top:                50%;
+    left:               50%;
+    transform:          translate(-50%, -50%);
 }
-
-h1{
-    color: white;
-    text-align: center;
+h4, h6{
+    color:              white;
+    text-align:         center;
+    margin:             auto;
 }
-
-h2,h4, h6{
-    color: white;
-    text-align: center;
-    margin: auto;
-}
-
-.table-hover{
-    background-color: white;
-}
-
-.form-check-inline{
-    color: white;
-    font-weight: bold;
-
-}
+/*------------------------- Campo de pesquisa -------------------------*/
 #formGroupExampleInput, #input-btModelo{
-    padding: auto;
-    margin: 5px; 
-    width: 96vw;
-    border-radius: 15px;
+    padding:            auto; 
+    font-weight:        650; /* Semi-negrito */
+    width:              96vw;
+    margin-top:         10px; 
+    margin-left:        10px; 
+    margin-right:       10px; 
+    border-radius:      12px 12px;
+    border:             1px solid black; /* Define a borda */
 }
-
-#galeria{
-    margin-left: 20px;
-    width: 96vw; 
-    height: 55%;    
-    margin-left: 5px; 
-    padding: 10;
-    overflow: auto;
-    display: block;    
-    border-radius: 10px 20px;
-    overflow-y: hidden;
-    overflow-x: hidden;
-}
-
-#exibicao{    
-    overflow: auto;
-    font-size: 0.8rem;
-    display:flow-root;
-    max-height: 90%; 
-    width: 95vw; 
-   
-}
-
-#cabecalho{      
-    
-    font-size: 1rem;
-    display: inline-block;   
-    width: 100%; 
-    margin: 0 auto;   
-   
-}
-
-#cabecalho > tr > th{   
-    margin:  auto;
-    align-self: center;  
-
-}
-
 *::-webkit-scrollbar {
-    width: 10px;
-    scrollbar-width: thin;
-    scrollbar-color: blue; 
-    
-  }
-  *::-webkit-scrollbar-track {
-    background: #CCC;
-    border: 50px;
-    border-radius: 50px;
-  }
-  *::-webkit-scrollbar-thumb {
-    background-color: #616161;
-    border-radius: 20px;
-    border: 3px solid #DDD;
-  }
-
-#logo{    
-    bottom: 0;
-    position:fixed ;
-    
+    width:              10px;
+    scrollbar-width:    thin;
+    scrollbar-color:    blue; 
 }
-
-#logomarca{
-    width: 40%;
-    display: block;
-    margin: auto;  
-    padding-left: 5%; 
-    
-}
-
-#lbPin{
-    
-    font-size: 12px;
-
-}
-
+/*-----------  radio ------------*/
 #radios{
-    margin: 5x;
-    margin-left: 5px;
-    font-size: 12px;
+    margin-top:         10px;
+    margin-left:        75px;
+    font-size:          16px;
+}
+/* Oculta os botões de rádio padrão */
+.styled-radio {
+    display:            none;
+}
+/* Estilo do quadrado */
+.styled-label {
+    position:           relative;
+    padding-left:       30px; /* Espaço para o quadrado */
+    cursor:             pointer;
+    font-size:          14px;
+    line-height:        20px;
+}
+.styled-label:before {
+    content:            '';
+    position:           absolute;
+    left:               0;
+    top:                50%;
+    transform:          translateY(-50%);
+    width:              25px;
+    height:             25px;
+    border:             2px solid #fff;
+    border-radius:      4px; /* Quadrado */
+    background:         #fff;
+    transition:         background-color 0.3s, border-color 0.3s;
+}
+/* Cor do quadrado quando selecionado */
+.styled-radio:checked + .styled-label:before {
+    background-color:   #CA03BE;
+    border-color:       #CA03BE;
+}
+.form-check-inline{
+    color:              white;
+    font-weight:        bold;
+}
+/*------------------------- Ajuste no campo do PIN -------------------------*/
+#lbPin{
+    margin-top:         1;
+    font-size:          16px;
+}
+/*------------------------- Ajuste da galeria -------------------------*/
+#galeria{
+    width:              96vw; 
+    height:             55%;  
+    margin-top:         10px; 
+    margin-left:        10px; 
+    margin-right:       10px; 
+    overflow:           auto;
+    display:            block;  
+    border-radius:      20px 20px;
+    border:             1px solid black;    /* Define a borda */
+    overflow-y:         hidden;
+    overflow-x:         hidden;
+} 
+#cabecalho{          
+    font-size:          1rem;
+    width:              100%; 
+    margin:             0 auto;    
+}
+#cabecalho > tr > th{   
+    padding:            1px 20px;          /* Mantém o espaçamento interno */
+    text-align:         left;               /* Alinha o texto à esquerda */
+    position:           relative;           /* Necessário para o ajuste com o pseudo-elemento */
+}
+#exibicao{    
+    overflow:           auto;
+    font-size:          0.8rem;
+    font-weight:        600;                /* Semi-negrito */
+    display:            flow-root;
+    max-height:         80%; 
+    width:              95vw; 
+}
+.table-hover{
+    background-color:   white;
+}
+*::-webkit-scrollbar-track {
+    background:         #002C70;
+    border:             50px;
+    border-radius:      50px;
+}
+*::-webkit-scrollbar-thumb {
+    background-color:   #CA03BE;
+    border-radius:      20px;
+    border:             3px solid #CA03BE;
+}
+/*-------------------------  ajustar a Imagem na pagina  -------------------------*/
+#logo {    
+    bottom:             1;                  /* Fixa o elemento na parte inferior */
+    position:           fixed;              /* Mantém o elemento fixo em relação à janela do navegador */
+    left:               50%;                /* Move o elemento para 50% da largura da janela */
+    transform:          translateX(-50%);   /* Centraliza o elemento ajustando o deslocamento */
+}
+#logomarca{
+    width:              50%;
+    display:            flex;
+    justify-content:    center;             /* Centralização horizontal */
+    align-items:        center;             /* Centralização vertical */
+    margin:             0;                  /* Remove margens padrão */
+    margin:             auto;  
+    padding-left:       5%;    
 }
