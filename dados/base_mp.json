@@ -86,7 +86,7 @@
         "Vida Util": "90000",
         "Qtde": "1",
         "Ciclo": "2",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/20/25",
         "": ""
     },
     {
@@ -17612,11 +17612,11 @@
     {
         "Modelo": "SLM4020",
         "CÓDIGO": "JC90-01063B",
-        "Descrição": "ROLETE DE RETARDO",
+        "Descrição": "ROLETE DE RETARDO CASSETTE",
         "Vida Util": "60000",
         "Qtde": "1",
         "Ciclo": "1",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/21/25",
         "": ""
     },
     {
@@ -17652,41 +17652,11 @@
     {
         "Modelo": "SLM4020",
         "CÓDIGO": "JC90-01032A",
-        "Descrição": "ROLETE DE RETARDAMENTO",
+        "Descrição": "ROLETE DE RETARDO MP",
         "Vida Util": "60000",
         "Qtde": "1",
         "Ciclo": "1",
-        "Ultima_atualização": "",
-        "": ""
-    },
-    {
-        "Modelo": "SLM4020",
-        "CÓDIGO": "JC73-00340A",
-        "Descrição": "ROLO APANHADOR",
-        "Vida Util": "90000",
-        "Qtde": "1",
-        "Ciclo": "2",
-        "Ultima_atualização": "",
-        "": ""
-    },
-    {
-        "Modelo": "SLM4020",
-        "CÓDIGO": "JC91-01023A",
-        "Descrição": "UNIDADE DE FUSÃO 110V",
-        "Vida Util": "90000",
-        "Qtde": "1",
-        "Ciclo": "2",
-        "Ultima_atualização": "",
-        "": ""
-    },
-    {
-        "Modelo": "SLM4020",
-        "CÓDIGO": "JC66-02842A",
-        "Descrição": "ROLO DE TRANSFERENCIA",
-        "Vida Util": "100000",
-        "Qtde": "1",
-        "Ciclo": "3",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/21/25",
         "": ""
     },
     {
@@ -17696,7 +17666,7 @@
         "Vida Util": "60000",
         "Qtde": "1",
         "Ciclo": "1",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/21/25",
         "": ""
     },
     {

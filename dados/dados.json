@@ -391,11 +391,11 @@
     },
     {
         "Modelo": "E55650DN",
-        "CÓDIGO": "5851-7702-SI",
+        "CÓDIGO": "G1W46-67911",
         "Descrição": "PRINCIPAL - FORMATTER",
         "Vida_Util": "",
         "Preco_Unitario": "2042.16",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/21/25",
         "": "",
         "filtro": ""
     },
@@ -1312,10 +1312,10 @@
     {
         "Modelo": "ELITEBK 830 G5",
         "CÓDIGO": "840706-001-SI",
-        "Descrição": "UNIDADE DE ESTADO SÓLIDO DE 512 GB (SSD) - M2 SATA-3",
+        "Descrição": "SSD - UNIDADE DE ESTADO SÓLIDO DE 512 GB (SSD) - M2 SATA-3",
         "Vida_Util": "",
         "Preco_Unitario": "0",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/15/25",
         "": "",
         "filtro": ""
     },
@@ -3221,21 +3221,11 @@
     },
     {
         "Modelo": "M404DW",
-        "CÓDIGO": "RM1-8415-000CN",
-        "Descrição": "PAPER PICK UP DRIVE ASSY",
-        "Vida_Util": "",
-        "Preco_Unitario": "0",
-        "Ultima_atualização": "",
-        "": "",
-        "filtro": ""
-    },
-    {
-        "Modelo": "M404DW",
         "CÓDIGO": "RM2-2562-000CN",
         "Descrição": "CONJUNTO DA PORTA DO CARTUCHO",
         "Vida_Util": "",
         "Preco_Unitario": "0",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/21/25",
         "": "",
         "filtro": ""
     },
@@ -3712,10 +3702,10 @@
     {
         "Modelo": "M408DN",
         "CÓDIGO": "JC93-00544B",
-        "Descrição": "CONJUNTO DE MOVIMENTAÇÃO",
+        "Descrição": "DRIVE PRINCIPAL - CONJUNTO DE MOVIMENTAÇÃO",
         "Vida_Util": "",
         "Preco_Unitario": "108.74",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/21/25",
         "": "",
         "filtro": ""
     },
@@ -3901,21 +3891,11 @@
     },
     {
         "Modelo": "M408DN",
-        "CÓDIGO": "RM1-6279-010CN",
-        "Descrição": "CASSETTE",
-        "Vida_Util": "",
-        "Preco_Unitario": "483.26",
-        "Ultima_atualização": "",
-        "": "",
-        "filtro": ""
-    },
-    {
-        "Modelo": "M408DN",
         "CÓDIGO": "7UQ75-40024",
         "Descrição": "TAMPA TRASEIRA",
         "Vida_Util": "",
         "Preco_Unitario": "190.76",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/21/25",
         "": "",
         "filtro": ""
     },
@@ -4370,12 +4350,22 @@
         "filtro": ""
     },
     {
+        "Modelo": "M432FDN",
+        "CÓDIGO": "JC93-00544B",
+        "Descrição": "DRIVE PRINCIPAL - CONJUNTO DE MOVIMENTAÇÃO",
+        "Vida_Util": "",
+        "Preco_Unitario": "108.74",
+        "Ultima_atualização": "1/21/25",
+        "": "",
+        "filtro": ""
+    },
+    {
         "Modelo": "SLM4020",
         "CÓDIGO": "JC93-00544B",
-        "Descrição": "CONJUNTO DE MOVIMENTAÇÃO",
+        "Descrição": "DRIVE PRINCIPAL - CONJUNTO DE MOVIMENTAÇÃO",
         "Vida_Util": "",
         "Preco_Unitario": "75.15",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/21/25",
         "": "",
         "filtro": ""
     },
@@ -4541,11 +4531,11 @@
     },
     {
         "Modelo": "SLM4020",
-        "CÓDIGO": "JC90-01031A",
+        "CÓDIGO": "JC90-01232A-SI",
         "Descrição": "UNIDADE MONTADA DO DUPLEX",
         "Vida_Util": "",
         "Preco_Unitario": "18.62",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/21/25",
         "": "",
         "filtro": ""
     },
@@ -4562,10 +4552,10 @@
     {
         "Modelo": "SLM4020",
         "CÓDIGO": "JC90-01043C",
-        "Descrição": "GUIA DE DIRECIONAMENTO DO PAPEL",
+        "Descrição": "MODULO MP - GUIA DE DIRECIONAMENTO DO PAPEL",
         "Vida_Util": "",
         "Preco_Unitario": "53.8",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/21/25",
         "": "",
         "filtro": ""
     },
@@ -5262,10 +5252,10 @@
     {
         "Modelo": "M4070FR",
         "CÓDIGO": "JC93-00544B",
-        "Descrição": "CONJUNTO DE MOVIMENTAÇÃO",
+        "Descrição": "DRIVE PRINCIPAL - CONJUNTO DE MOVIMENTAÇÃO",
         "Vida_Util": "",
         "Preco_Unitario": "82.65",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/21/25",
         "": "",
         "filtro": ""
     },
@@ -5371,21 +5361,11 @@
     },
     {
         "Modelo": "M4070FR",
-        "CÓDIGO": "JC90-01232A-SI",
-        "Descrição": "UNIDADE DUPLEX",
-        "Vida_Util": "",
-        "Preco_Unitario": "26.28",
-        "Ultima_atualização": "",
-        "": "",
-        "filtro": ""
-    },
-    {
-        "Modelo": "M4070FR",
         "CÓDIGO": "JC39-00892A-SI",
         "Descrição": "FIAÇÃO DO ADF",
         "Vida_Util": "",
         "Preco_Unitario": "0",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/21/25",
         "": "",
         "filtro": ""
     },
@@ -5491,11 +5471,11 @@
     },
     {
         "Modelo": "M4070FR",
-        "CÓDIGO": "JC90-01031A-SI",
+        "CÓDIGO": "JC90-01232A-SI",
         "Descrição": "UNIDADE MONTADA DO DUPLEX",
         "Vida_Util": "",
         "Preco_Unitario": "32.84",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/21/25",
         "": "",
         "filtro": ""
     },
@@ -5712,10 +5692,10 @@
     {
         "Modelo": "M4070FR",
         "CÓDIGO": "JC90-01043C",
-        "Descrição": "GUIA DE DIRECIONAMENTO DO PAPEL",
+        "Descrição": "MODULO MP - GUIA DE DIRECIONAMENTO DO PAPEL",
         "Vida_Util": "",
         "Preco_Unitario": "20.94",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/21/25",
         "": "",
         "filtro": ""
     },
@@ -6082,20 +6062,20 @@
     {
         "Modelo": "M4080FX",
         "CÓDIGO": "JC93-01230A",
-        "Descrição": "UNIDADE DE MOVIMENTAÇÃO DA FUSÃO",
+        "Descrição": "DRIVE-FUSER    - UNIDADE DE MOVIMENTAÇÃO DA FUSÃO",
         "Vida_Util": "",
         "Preco_Unitario": "103.34",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/21/25",
         "": "",
         "filtro": ""
     },
     {
         "Modelo": "M4080FX",
         "CÓDIGO": "JC93-01229A",
-        "Descrição": "UNIDADE DE MOVIMENTAÇÃO PRINCIPAL",
+        "Descrição": "DRIVE-MAIN     - UNIDADE DE MOVIMENTAÇÃO PRINCIPAL",
         "Vida_Util": "",
         "Preco_Unitario": "326.85",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/21/25",
         "": "",
         "filtro": ""
     },
@@ -6272,10 +6252,10 @@
     {
         "Modelo": "M4080FX",
         "CÓDIGO": "JC93-01231A",
-        "Descrição": "UNIDADE DE MOVIMENTAÇÃO SUPERIOR",
+        "Descrição": "DRIVE PICK UP - UNIDADE DE MOVIMENTAÇÃO SUPERIOR",
         "Vida_Util": "",
         "Preco_Unitario": "49.53",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/21/25",
         "": "",
         "filtro": ""
     },
@@ -6485,7 +6465,7 @@
         "Descrição": "ALÇA DE ARTICULAÇÃO DA PORTA",
         "Vida_Util": "",
         "Preco_Unitario": "0",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/16/25",
         "": "",
         "filtro": ""
     },
@@ -6495,7 +6475,7 @@
         "Descrição": "UNIDADE ALIMENTADOR",
         "Vida_Util": "",
         "Preco_Unitario": "0",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/16/25",
         "": "",
         "filtro": ""
     },
@@ -6505,7 +6485,7 @@
         "Descrição": "LEVER",
         "Vida_Util": "",
         "Preco_Unitario": "38.97",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/16/25",
         "": "",
         "filtro": ""
     },
@@ -6575,16 +6555,6 @@
         "Descrição": "FRAME-UPPER CRUM",
         "Vida_Util": "",
         "Preco_Unitario": "4.05",
-        "Ultima_atualização": "",
-        "": "",
-        "filtro": ""
-    },
-    {
-        "Modelo": "M4080FX",
-        "CÓDIGO": "JC98-04618A",
-        "Descrição": "ETC-HDD SL-M4080SEC (descontinuado)",
-        "Vida_Util": "",
-        "Preco_Unitario": "207.24",
         "Ultima_atualização": "",
         "": "",
         "filtro": ""
@@ -6771,21 +6741,11 @@
     },
     {
         "Modelo": "E52645C",
-        "CÓDIGO": "JC66-03576A",
-        "Descrição": "ROLO DE TRANSFERÊNCIA",
-        "Vida_Util": "",
-        "Preco_Unitario": "106.51",
-        "Ultima_atualização": "",
-        "": "",
-        "filtro": ""
-    },
-    {
-        "Modelo": "E52645C",
         "CÓDIGO": "F5S62-61001",
         "Descrição": "TPM - KIT DE MODULOS PARA ATUALIZACAO",
         "Vida_Util": "",
         "Preco_Unitario": "392.95",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/21/25",
         "": "",
         "filtro": ""
     },
@@ -7810,22 +7770,12 @@
         "filtro": ""
     },
     {
-        "Modelo": "X4300LX",
-        "CÓDIGO": "JC66-01218A",
-        "Descrição": "ROLO DE TRANSFERÊNCIA",
-        "Vida_Util": "",
-        "Preco_Unitario": "10.5707",
-        "Ultima_atualização": "",
-        "": "",
-        "filtro": ""
-    },
-    {
         "Modelo": "ML4551ND",
         "CÓDIGO": "JC66-00540B",
         "Descrição": "ROLO DE TRANSFERÊNCIA",
         "Vida_Util": "150000",
         "Preco_Unitario": "24.78",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/21/25",
         "": "",
         "filtro": ""
     },
@@ -7862,10 +7812,10 @@
     {
         "Modelo": "X4220RX",
         "CÓDIGO": "0604-001381",
-        "Descrição": "SENSOR para fins diversos e adf",
+        "Descrição": "SENSOR - FOTO INTERRUPTOR DIVERSOS ",
         "Vida_Util": "",
         "Preco_Unitario": "143.46",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/2/25",
         "": "",
         "filtro": ""
     },
@@ -8080,22 +8030,12 @@
         "filtro": ""
     },
     {
-        "Modelo": "X7400LX",
-        "CÓDIGO": "JC63-03430APRS",
-        "Descrição": "SHEET-FEED",
-        "Vida_Util": "",
-        "Preco_Unitario": "43.47",
-        "Ultima_atualização": "",
-        "": "",
-        "filtro": ""
-    },
-    {
         "Modelo": "T830 36",
         "CÓDIGO": "CQ890-67108",
         "Descrição": "CUTTER AXLP SCR SV KIT",
         "Vida_Util": "",
         "Preco_Unitario": "761.94",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/10/25",
         "": "",
         "filtro": ""
     },
@@ -8471,11 +8411,11 @@
     },
     {
         "Modelo": "CLX6260FR",
-        "CÓDIGO": "JC44-00222A",
+        "CÓDIGO": "JC44-00222D",
         "Descrição": "FONTE - PLACA SMPS",
         "Vida_Util": "",
         "Preco_Unitario": "98.03",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/21/25",
         "": "",
         "filtro": ""
     },
@@ -8685,16 +8625,6 @@
         "Descrição": "CIRCUITO IMPRESSO NÚMERICO PBA-LCD",
         "Vida_Util": "",
         "Preco_Unitario": "0",
-        "Ultima_atualização": "",
-        "": "",
-        "filtro": ""
-    },
-    {
-        "Modelo": "SCX6555NX",
-        "CÓDIGO": "JC97-02273B-SI",
-        "Descrição": "BANDEJA DE PAPEL MONTADA",
-        "Vida_Util": "",
-        "Preco_Unitario": "109.77",
         "Ultima_atualização": "",
         "": "",
         "filtro": ""
@@ -9150,22 +9080,12 @@
         "filtro": ""
     },
     {
-        "Modelo": "ZBOOK",
-        "CÓDIGO": "850147-001-SI",
-        "Descrição": "TAMPA SUPERIOR",
-        "Vida_Util": "",
-        "Preco_Unitario": "0",
-        "Ultima_atualização": "",
-        "": "",
-        "filtro": ""
-    },
-    {
         "Modelo": "ZT411T",
         "CÓDIGO": "P1105147-012",
         "Descrição": "PLACA FONTE",
         "Vida_Util": "",
         "Preco_Unitario": "2109.02",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/20/25",
         "": "",
         "filtro": ""
     },
@@ -9312,7 +9232,7 @@
     {
         "Modelo": "CLP775ND",
         "CÓDIGO": "JC92-02390F",
-        "Descrição": "PLACA PBA",
+        "Descrição": "PRINCIPAL - PLACA PBA",
         "Vida_Util": "",
         "Preco_Unitario": "411.48",
         "Ultima_atualização": "",
@@ -9501,11 +9421,11 @@
     },
     {
         "Modelo": "X7400LX",
-        "CÓDIGO": "JC93-00984A-SI",
+        "CÓDIGO": "JC93-00984A",
         "Descrição": "TRANSFERENCIA - ITB",
         "Vida_Util": "360000",
         "Preco_Unitario": "0",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/10/25",
         "": "",
         "filtro": ""
     },
@@ -9860,22 +9780,12 @@
         "filtro": ""
     },
     {
-        "Modelo": "M5360RX",
-        "CÓDIGO": "JC66-03756A-SI",
-        "Descrição": "ROLETE DE TRANSFERÊNCIA",
-        "Vida_Util": "",
-        "Preco_Unitario": "11.25",
-        "Ultima_atualização": "",
-        "": "",
-        "filtro": ""
-    },
-    {
         "Modelo": "X4220RX",
         "CÓDIGO": "JC61-04721A-SI",
         "Descrição": "GUIA DA ALIMENTAÇÃO",
         "Vida_Util": "",
         "Preco_Unitario": "5.84",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/21/25",
         "": "",
         "filtro": ""
     },
@@ -9952,10 +9862,10 @@
     {
         "Modelo": "E58650DN",
         "CÓDIGO": "CN598-67038",
-        "Descrição": "SENSOR PARA IMPRESSORA",
+        "Descrição": "SENSOR - temperature/humidity sensors (REDI)",
         "Vida_Util": "",
         "Preco_Unitario": "123.67",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/2/25",
         "": "",
         "filtro": ""
     },
@@ -10230,22 +10140,12 @@
         "filtro": ""
     },
     {
-        "Modelo": "M4580FX",
-        "CÓDIGO": "JC66-03576A-SI",
-        "Descrição": "ROLO DE TRANSFERÊNCIA",
-        "Vida_Util": "",
-        "Preco_Unitario": "0",
-        "Ultima_atualização": "",
-        "": "",
-        "filtro": ""
-    },
-    {
         "Modelo": "X4220RX",
         "CÓDIGO": "JC63-03342A-SI",
         "Descrição": "GUIA",
         "Vida_Util": "",
         "Preco_Unitario": "11.39",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/21/25",
         "": "",
         "filtro": ""
     },
@@ -11120,16 +11020,6 @@
         "filtro": ""
     },
     {
-        "Modelo": "SCX6555NX",
-        "CÓDIGO": "JC72-00883APRS",
-        "Descrição": "SUPORTE GND TR",
-        "Vida_Util": "",
-        "Preco_Unitario": "53",
-        "Ultima_atualização": "",
-        "": "",
-        "filtro": ""
-    },
-    {
         "Modelo": "M4580FX",
         "CÓDIGO": "MLT-R304",
         "Descrição": "MLT-R304/XAZ UNIDADE DE CILINDRO 100K PÁGINAS",
@@ -11312,10 +11202,10 @@
     {
         "Modelo": "E77830Z",
         "CÓDIGO": "0604-001381",
-        "Descrição": "SENSOR para fins diversos e adf",
+        "Descrição": "SENSOR - FOTO INTERRUPTOR DIVERSOS ",
         "Vida_Util": "",
         "Preco_Unitario": "143.46",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/2/25",
         "": "",
         "filtro": ""
     },
@@ -11400,22 +11290,12 @@
         "filtro": ""
     },
     {
-        "Modelo": "M527DNM",
-        "CÓDIGO": "RM2-9531-000SI",
-        "Descrição": "MOTOR DE USO NAS IMPRESSORAS",
-        "Vida_Util": "",
-        "Preco_Unitario": "162.48",
-        "Ultima_atualização": "",
-        "": "",
-        "filtro": ""
-    },
-    {
         "Modelo": "M775FM",
         "CÓDIGO": "CE514A-SI",
         "Descrição": "FUSER KIT 110V FOR M775",
         "Vida_Util": "150000",
         "Preco_Unitario": "1153.43",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/21/25",
         "": "",
         "filtro": ""
     },
@@ -11662,10 +11542,10 @@
     {
         "Modelo": "ZBOOK",
         "CÓDIGO": "850154-001",
-        "Descrição": "CAMERA",
+        "Descrição": "SPS-LCD BEZEL W/CAMERA",
         "Vida_Util": "",
         "Preco_Unitario": "56.87",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/20/25",
         "": "",
         "filtro": ""
     },
@@ -12762,10 +12642,10 @@
     {
         "Modelo": "M4580FX",
         "CÓDIGO": "JC93-00351A",
-        "Descrição": "UNIDADE DE MOVIMENTAÇÃO DA FUSÃO COM SUPORTE",
+        "Descrição": "DRIVE FUSER - UNIDADE DE MOVIMENTAÇÃO DA FUSÃO",
         "Vida_Util": "",
         "Preco_Unitario": "10.46",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/7/25",
         "": "",
         "filtro": ""
     },
@@ -13191,7 +13071,7 @@
     },
     {
         "Modelo": "M5360RX",
-        "CÓDIGO": "JC96-04892A-SI",
+        "CÓDIGO": "JC96-04892A",
         "Descrição": "UNIDADE DE SAÍDA",
         "Vida_Util": "",
         "Preco_Unitario": "135.59",
@@ -13415,16 +13295,6 @@
         "Descrição": "ROLETE",
         "Vida_Util": "100000",
         "Preco_Unitario": "5.31",
-        "Ultima_atualização": "",
-        "": "",
-        "filtro": ""
-    },
-    {
-        "Modelo": "SCX6555NX",
-        "CÓDIGO": "JC66-01684A-SI",
-        "Descrição": "ENGRENAGEM",
-        "Vida_Util": "",
-        "Preco_Unitario": "0.88",
         "Ultima_atualização": "",
         "": "",
         "filtro": ""
@@ -14350,22 +14220,12 @@
         "filtro": ""
     },
     {
-        "Modelo": "M5360RX",
-        "CÓDIGO": "D0896203",
-        "Descrição": "UNIDADE DO ROLO DE TRANSFERÊNCIA",
-        "Vida_Util": "",
-        "Preco_Unitario": "80.67",
-        "Ultima_atualização": "",
-        "": "",
-        "filtro": ""
-    },
-    {
         "Modelo": "SCX6555NX",
         "CÓDIGO": "JC72-00751A",
         "Descrição": "FOLHA ESPONJA DA TAMPA DE ORIGINAIS",
         "Vida_Util": "",
         "Preco_Unitario": "9",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/21/25",
         "": "",
         "filtro": ""
     },
@@ -14500,22 +14360,12 @@
         "filtro": ""
     },
     {
-        "Modelo": "X7400LX",
-        "CÓDIGO": "JC97-04575A-SI",
-        "Descrição": "UNIDADE LSU",
-        "Vida_Util": "",
-        "Preco_Unitario": "867.91",
-        "Ultima_atualização": "",
-        "": "",
-        "filtro": ""
-    },
-    {
         "Modelo": "X4220RX",
         "CÓDIGO": "JC66-03278A-SI",
         "Descrição": "ENGRENAGEM DA GAVETA",
         "Vida_Util": "",
         "Preco_Unitario": "2.47",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/10/25",
         "": "",
         "filtro": ""
     },
@@ -14610,22 +14460,12 @@
         "filtro": ""
     },
     {
-        "Modelo": "X7400LX",
-        "CÓDIGO": "JC93-01375A-SI",
-        "Descrição": "UNIDADE ITB",
-        "Vida_Util": "",
-        "Preco_Unitario": "0",
-        "Ultima_atualização": "",
-        "": "",
-        "filtro": ""
-    },
-    {
         "Modelo": "K7400LX",
         "CÓDIGO": "JC93-01364A",
         "Descrição": "UNIDADE DE ALIMENTAÇÃO - Main Pick Up 1st",
         "Vida_Util": "",
         "Preco_Unitario": "182.92",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/10/25",
         "": "",
         "filtro": ""
     },
@@ -15380,22 +15220,12 @@
         "filtro": ""
     },
     {
-        "Modelo": "X7400LX",
-        "CÓDIGO": "JC93-01065A-SI",
-        "Descrição": "SUPORTE GUIA DE TONER",
-        "Vida_Util": "",
-        "Preco_Unitario": "155.88",
-        "Ultima_atualização": "",
-        "": "",
-        "filtro": ""
-    },
-    {
         "Modelo": "K4250RX",
         "CÓDIGO": "JC90-01359A",
         "Descrição": "GAVETA 2",
         "Vida_Util": "",
         "Preco_Unitario": "375.75",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/10/25",
         "": "",
         "filtro": ""
     },
@@ -16900,12 +16730,12 @@
         "filtro": ""
     },
     {
-        "Modelo": "ZBOOK",
+        "Modelo": "ZBOOK FURY 15 G7",
         "CÓDIGO": "M17059-601",
-        "Descrição": "SPS-MB I7-10850H FURY 15 G7 WIN",
+        "Descrição": "PRINCIPAL - SPS-MB I7-10850H FURY 15 G7 WIN",
         "Vida_Util": "",
         "Preco_Unitario": "8361.16",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/20/25",
         "": "",
         "filtro": ""
     },
@@ -17211,21 +17041,11 @@
     },
     {
         "Modelo": "SL-C3060FR",
-        "CÓDIGO": "JC44-00223D-SI",
-        "Descrição": "FONTE - PLACA P/IMPRESSORA-SMPS",
-        "Vida_Util": "",
-        "Preco_Unitario": "202.9",
-        "Ultima_atualização": "",
-        "": "",
-        "filtro": ""
-    },
-    {
-        "Modelo": "SL-C3060FR",
         "CÓDIGO": "JC97-04082B-SI",
         "Descrição": "UNIDADE LASER",
         "Vida_Util": "",
         "Preco_Unitario": "235.38",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/21/25",
         "": "",
         "filtro": ""
     },
@@ -17470,22 +17290,12 @@
         "filtro": ""
     },
     {
-        "Modelo": "X7400LX",
-        "CÓDIGO": "JC93-01116A-SI",
-        "Descrição": "FRAME MAIN-REGI",
-        "Vida_Util": "",
-        "Preco_Unitario": "2337.97",
-        "Ultima_atualização": "",
-        "": "",
-        "filtro": ""
-    },
-    {
         "Modelo": "E57540DN",
         "CÓDIGO": "RM2-6576-000SI",
         "Descrição": "KIT-INTERMEDIATE TRANSFER BELT",
         "Vida_Util": "pesquisar",
         "Preco_Unitario": "1083.5",
-        "Ultima_atualização": "11/21/24",
+        "Ultima_atualização": "1/10/25",
         "": "",
         "filtro": ""
     },
@@ -17945,7 +17755,7 @@
         "Descrição": "HDD - UNIDADE DE DISCO RÍGIDO 500GB",
         "Vida_Util": "",
         "Preco_Unitario": "267.34",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/6/25",
         "": "",
         "filtro": ""
     },
@@ -18531,11 +18341,11 @@
     },
     {
         "Modelo": "SL-C3010ND",
-        "CÓDIGO": "JC44-00222D-SI",
-        "Descrição": "PLACA CONVERSORA ESTÁTICA FONTE DE ALIM",
+        "CÓDIGO": "JC44-00222D",
+        "Descrição": "FONTE - PLACA SMPS",
         "Vida_Util": "",
         "Preco_Unitario": "143.1",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/21/25",
         "": "",
         "filtro": ""
     },
@@ -19075,16 +18885,6 @@
         "Descrição": "TAMPA",
         "Vida_Util": "",
         "Preco_Unitario": "8.79",
-        "Ultima_atualização": "",
-        "": "",
-        "filtro": ""
-    },
-    {
-        "Modelo": "SCX6555NX",
-        "CÓDIGO": "JC92-02332AR",
-        "Descrição": "PLACA PBA",
-        "Vida_Util": "",
-        "Preco_Unitario": "383.44",
         "Ultima_atualização": "",
         "": "",
         "filtro": ""
@@ -20330,16 +20130,6 @@
         "filtro": ""
     },
     {
-        "Modelo": "SCX6555NX",
-        "CÓDIGO": "JC97-02273BPRS",
-        "Descrição": "BANDEJA DE PAPEL MONTADA",
-        "Vida_Util": "",
-        "Preco_Unitario": "180.05",
-        "Ultima_atualização": "",
-        "": "",
-        "filtro": ""
-    },
-    {
         "Modelo": "M4580FX",
         "CÓDIGO": "0609-001573PRS",
         "Descrição": "SENSOR DE CONTATO DE IMAGEM",
@@ -20670,22 +20460,12 @@
         "filtro": ""
     },
     {
-        "Modelo": "X4300LX",
-        "CÓDIGO": "JC66-01218APRS",
-        "Descrição": "ROLO DE TRANSFERÊNCIA",
-        "Vida_Util": "",
-        "Preco_Unitario": "43.47",
-        "Ultima_atualização": "",
-        "": "",
-        "filtro": ""
-    },
-    {
         "Modelo": "CLX6260FR",
-        "CÓDIGO": "JC66-03756APRS",
+        "CÓDIGO": "JC66-03756A",
         "Descrição": "ROLETE DE TRANSFERÊNCIA",
         "Vida_Util": "",
         "Preco_Unitario": "0",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/21/25",
         "": "",
         "filtro": ""
     },
@@ -21682,10 +21462,10 @@
     {
         "Modelo": "ML-5010ND",
         "CÓDIGO": "JC93-00351A",
-        "Descrição": "CONJUNTO DE ENGRENAGENS : DRIVE",
+        "Descrição": "DRIVE FUSER - UNIDADE DE MOVIMENTAÇÃO DA FUSÃO",
         "Vida_Util": "",
         "Preco_Unitario": "3.62",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/7/25",
         "": "",
         "filtro": ""
     },
@@ -21841,11 +21621,11 @@
     },
     {
         "Modelo": "SL-C3060FR",
-        "CÓDIGO": "JC39-01002A",
+        "CÓDIGO": "JC39-01866A-SI",
         "Descrição": "CABO FLAT DO SCANNER",
         "Vida_Util": "",
         "Preco_Unitario": "18.83",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/21/25",
         "": "",
         "filtro": ""
     },
@@ -22502,10 +22282,10 @@
     {
         "Modelo": "E87660Z",
         "CÓDIGO": "JC98-05425A",
-        "Descrição": "HP LASERJET IMAGE TRANSFER BELT ASSEMBLY",
+        "Descrição": "UNIDADE ITB - TRANSFER BELT ASSEMBLY",
         "Vida_Util": "430000",
         "Preco_Unitario": "0",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/10/25",
         "": "",
         "filtro": ""
     },
@@ -23960,16 +23740,6 @@
         "filtro": ""
     },
     {
-        "Modelo": "SCX6555NX",
-        "CÓDIGO": "5903-002912BR",
-        "Descrição": "CARTÃO DE MEMORIA",
-        "Vida_Util": "",
-        "Preco_Unitario": "491.59",
-        "Ultima_atualização": "",
-        "": "",
-        "filtro": ""
-    },
-    {
         "Modelo": "ML-5515ND",
         "CÓDIGO": "JC44-00202A",
         "Descrição": "HVPS - High-voltage power supply (HVPS)",
@@ -24952,10 +24722,10 @@
     {
         "Modelo": "PROBOOK 640 G8",
         "CÓDIGO": "840706-001",
-        "Descrição": "UNIDADE DE ESTADO SÓLIDO DE 512 GB (SSD) - M2 SATA-3",
+        "Descrição": "SSD - UNIDADE DE ESTADO SÓLIDO DE 512 GB (SSD) - M2 SATA-3",
         "Vida_Util": "",
         "Preco_Unitario": "918.5",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/15/25",
         "": "",
         "filtro": ""
     },
@@ -25920,16 +25690,6 @@
         "filtro": ""
     },
     {
-        "Modelo": "SCX6555NX",
-        "CÓDIGO": "JC96-04890A-SI",
-        "Descrição": "SUPORTE ELA DO DUPLEX",
-        "Vida_Util": "",
-        "Preco_Unitario": "0",
-        "Ultima_atualização": "",
-        "": "",
-        "filtro": ""
-    },
-    {
         "Modelo": "M5360RX",
         "CÓDIGO": "JC61-02562A",
         "Descrição": "GUIA DE SAIDA",
@@ -26050,22 +25810,12 @@
         "filtro": ""
     },
     {
-        "Modelo": "E62655DN",
-        "CÓDIGO": "RM2-2731-000CN",
-        "Descrição": " FUSOR - Fuser assembly (110-127V) ",
-        "Vida_Util": "50K",
-        "Preco_Unitario": "2655.24",
-        "Ultima_atualização": "",
-        "": "",
-        "filtro": ""
-    },
-    {
         "Modelo": "K7400LX",
         "CÓDIGO": "JC93-01063B",
         "Descrição": "CONJUNTO MOTOR ENGRENAGENS (DRIVE) DE C",
         "Vida_Util": "",
         "Preco_Unitario": "0",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/21/25",
         "": "",
         "filtro": ""
     },
@@ -26631,31 +26381,11 @@
     },
     {
         "Modelo": "ZBOOK",
-        "CÓDIGO": "M17072-001-SI",
-        "Descrição": "KIT DE DOBRADIÇA SPS",
-        "Vida_Util": "",
-        "Preco_Unitario": "2175.72",
-        "Ultima_atualização": "",
-        "": "",
-        "filtro": ""
-    },
-    {
-        "Modelo": "ZBOOK",
-        "CÓDIGO": "N19252-001-SI",
-        "Descrição": "SPS-RAW PANEL LCD 16 WUXGA BV UWVA 400E",
-        "Vida_Util": "",
-        "Preco_Unitario": "2770.58",
-        "Ultima_atualização": "",
-        "": "",
-        "filtro": ""
-    },
-    {
-        "Modelo": "ZBOOK",
         "CÓDIGO": "N19204-201",
         "Descrição": "TOP COVER",
         "Vida_Util": "",
         "Preco_Unitario": "1034.88",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/20/25",
         "": "",
         "filtro": ""
     },
@@ -27040,12 +26770,12 @@
         "filtro": ""
     },
     {
-        "Modelo": "ZBOOK",
+        "Modelo": "ZBOOK FURY 15 G8",
         "CÓDIGO": "M87578-601",
-        "Descrição": "SPS-MB I7-11850H FURY 15 G8 WIN",
+        "Descrição": "PRINCIPAL - SPS-MB I7-11850H FURY 15 G8 WIN",
         "Vida_Util": "",
         "Preco_Unitario": "0",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/20/25",
         "": "",
         "filtro": ""
     },
@@ -28920,22 +28650,12 @@
         "filtro": ""
     },
     {
-        "Modelo": "SCX6555NX",
-        "CÓDIGO": "JC96-04892AR",
-        "Descrição": "UNIDADE DE SAÍDA",
-        "Vida_Util": "",
-        "Preco_Unitario": "87.69",
-        "Ultima_atualização": "",
-        "": "",
-        "filtro": ""
-    },
-    {
         "Modelo": "CLX6260FR",
-        "CÓDIGO": "JC39-01866A",
-        "Descrição": "CABO FLEXÍVEL",
+        "CÓDIGO": "JC39-01866A-SI",
+        "Descrição": "CABO FLAT DO SCANNER",
         "Vida_Util": "",
         "Preco_Unitario": "0",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/21/25",
         "": "",
         "filtro": ""
     },
@@ -29392,10 +29112,10 @@
     {
         "Modelo": "E82560Z",
         "CÓDIGO": "0604-001490",
-        "Descrição": "PHOTO-INTERRUPTER PHOTODIODE SNAPIN",
+        "Descrição": "SENSOR - FOTO INTERRUPTOR DIVERSOS ",
         "Vida_Util": "",
         "Preco_Unitario": "0",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/2/25",
         "": "",
         "filtro": ""
     },
@@ -30110,16 +29830,6 @@
         "filtro": ""
     },
     {
-        "Modelo": "SCX6555NX",
-        "CÓDIGO": "JC97-02264B-SI",
-        "Descrição": "BANDEJA DE SAIDA DO DUPLEX",
-        "Vida_Util": "",
-        "Preco_Unitario": "11.98",
-        "Ultima_atualização": "",
-        "": "",
-        "filtro": ""
-    },
-    {
         "Modelo": "X4220RX",
         "CÓDIGO": "JC97-04495A-SI",
         "Descrição": "BASE DO ALIMENTADOR",
@@ -30405,7 +30115,7 @@
         "Descrição": "SSD 256GB",
         "Vida_Util": "",
         "Preco_Unitario": "53.01",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/15/25",
         "": "",
         "filtro": ""
     },
@@ -31242,10 +30952,10 @@
     {
         "Modelo": "SL-M4530ND",
         "CÓDIGO": "JC93-00351A",
-        "Descrição": "UNIDADE DE MOVIMENTAÇÃO DA FUSÃO COM SUPORTE",
+        "Descrição": "DRIVE FUSER - UNIDADE DE MOVIMENTAÇÃO DA FUSÃO",
         "Vida_Util": "",
         "Preco_Unitario": "18.09",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/7/25",
         "": "",
         "filtro": ""
     },
@@ -31265,16 +30975,6 @@
         "Descrição": "UNIDADE DE FUSÃO",
         "Vida_Util": "360000",
         "Preco_Unitario": "1751.6",
-        "Ultima_atualização": "",
-        "": "",
-        "filtro": ""
-    },
-    {
-        "Modelo": "SCX6555NX",
-        "CÓDIGO": "JC97-02635A-SI",
-        "Descrição": "DOBRADIÇA PARA IMPRESSORA",
-        "Vida_Util": "",
-        "Preco_Unitario": "16.23",
         "Ultima_atualização": "",
         "": "",
         "filtro": ""
@@ -31361,21 +31061,11 @@
     },
     {
         "Modelo": "X7400LX",
-        "CÓDIGO": "JC93-00984A",
-        "Descrição": "TRANSFERENCIA - ITB",
-        "Vida_Util": "360000",
-        "Preco_Unitario": "1785.98",
-        "Ultima_atualização": "",
-        "": "",
-        "filtro": ""
-    },
-    {
-        "Modelo": "X7400LX",
         "CÓDIGO": "JC93-00986A",
         "Descrição": "UNIDADE DE LIMPEZA - ITB",
         "Vida_Util": "180000",
         "Preco_Unitario": "175.88",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/10/25",
         "": "",
         "filtro": ""
     },
@@ -31580,22 +31270,12 @@
         "filtro": ""
     },
     {
-        "Modelo": "SL-C3010ND",
-        "CÓDIGO": "JC44-00222D",
-        "Descrição": "PLACA CONVERSORA ESTÁTICA, FONTE DE ALIM",
-        "Vida_Util": "",
-        "Preco_Unitario": "290.06",
-        "Ultima_atualização": "",
-        "": "",
-        "filtro": ""
-    },
-    {
         "Modelo": "M4580FX",
         "CÓDIGO": "JC97-04911A",
         "Descrição": "DOBRADIÇA ESQUERDA",
         "Vida_Util": "",
         "Preco_Unitario": "1.13",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/21/25",
         "": "",
         "filtro": ""
     },
@@ -31741,11 +31421,11 @@
     },
     {
         "Modelo": "X7400LX",
-        "CÓDIGO": "JC98-05425A-SI",
-        "Descrição": "UNIDADE ITB",
-        "Vida_Util": "",
+        "CÓDIGO": "JC98-05425A",
+        "Descrição": "UNIDADE ITB - TRANSFER BELT ASSEMBLY",
+        "Vida_Util": "430000",
         "Preco_Unitario": "691.07",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/10/25",
         "": "",
         "filtro": ""
     },
@@ -33280,16 +32960,6 @@
         "filtro": ""
     },
     {
-        "Modelo": "SCX6555NX",
-        "CÓDIGO": "JC81-03515A-SI",
-        "Descrição": "POLIA",
-        "Vida_Util": "",
-        "Preco_Unitario": "19.33",
-        "Ultima_atualização": "",
-        "": "",
-        "filtro": ""
-    },
-    {
         "Modelo": "M5360RX",
         "CÓDIGO": "JC97-02290A-SI",
         "Descrição": "UNIDADE TEMPORIZADORA DE PAPEL",
@@ -34281,11 +33951,11 @@
     },
     {
         "Modelo": "E87640DN",
-        "CÓDIGO": "JC98-05425A-5",
-        "Descrição": "HP LASERJET IMAGE TRANSFER BELT ASSEMBLY",
+        "CÓDIGO": "JC98-05425A",
+        "Descrição": "UNIDADE ITB - TRANSFER BELT ASSEMBLY",
         "Vida_Util": "430K",
         "Preco_Unitario": "",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/10/25",
         "": "",
         "filtro": ""
     },
@@ -34421,11 +34091,11 @@
     },
     {
         "Modelo": "E87660DN PLUS",
-        "CÓDIGO": "JC98-05425A-5",
-        "Descrição": "HP LASERJET IMAGE TRANSFER BELT ASSEMBLY",
+        "CÓDIGO": "JC98-05425A",
+        "Descrição": "UNIDADE ITB - TRANSFER BELT ASSEMBLY",
         "Vida_Util": "430K",
         "Preco_Unitario": "",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/10/25",
         "": "",
         "filtro": ""
     },
@@ -34671,11 +34341,11 @@
     },
     {
         "Modelo": "E72525DN",
-        "CÓDIGO": "W9006MC-5",
+        "CÓDIGO": "W9006MC",
         "Descrição": "HP UNIDADE DE CILINDRO (K) 200K PÁGINAS",
-        "Vida_Util": "200K",
-        "Preco_Unitario": "",
-        "Ultima_atualização": "",
+        "Vida_Util": "200000",
+        "Preco_Unitario": "149.48",
+        "Ultima_atualização": "1/22/25",
         "": "",
         "filtro": ""
     },
@@ -34741,11 +34411,11 @@
     },
     {
         "Modelo": "E72530Z",
-        "CÓDIGO": "W9006MC-5",
+        "CÓDIGO": "W9006MC",
         "Descrição": "HP UNIDADE DE CILINDRO (K) 200K PÁGINAS",
-        "Vida_Util": "200K",
-        "Preco_Unitario": "",
-        "Ultima_atualização": "",
+        "Vida_Util": "200000",
+        "Preco_Unitario": "149.48",
+        "Ultima_atualização": "1/22/25",
         "": "",
         "filtro": ""
     },
@@ -34811,11 +34481,11 @@
     },
     {
         "Modelo": "E72530DN",
-        "CÓDIGO": "W9006MC-5",
+        "CÓDIGO": "W9006MC",
         "Descrição": "HP UNIDADE DE CILINDRO (K) 200K PÁGINAS",
-        "Vida_Util": "200K",
-        "Preco_Unitario": "",
-        "Ultima_atualização": "",
+        "Vida_Util": "200000",
+        "Preco_Unitario": "149.48",
+        "Ultima_atualização": "1/22/25",
         "": "",
         "filtro": ""
     },
@@ -35622,10 +35292,10 @@
     {
         "Modelo": "E78330Z",
         "CÓDIGO": "0604-001381",
-        "Descrição": "SENSOR para fins diversos e adf",
+        "Descrição": "SENSOR - FOTO INTERRUPTOR DIVERSOS ",
         "Vida_Util": "",
         "Preco_Unitario": "143.46",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/2/25",
         "": "",
         "filtro": ""
     },
@@ -37890,22 +37560,12 @@
         "filtro": ""
     },
     {
-        "Modelo": "E52645C",
-        "CÓDIGO": "RM3-7475-010SI",
-        "Descrição": "DC CONTROLLER (APENAS MODELOS COM DUPLEX)(Atualizado)",
-        "Vida_Util": "",
-        "Preco_Unitario": "492.79",
-        "Ultima_atualização": "",
-        "": "",
-        "filtro": ""
-    },
-    {
         "Modelo": "E50145DN",
         "CÓDIGO": "RM3-7475-010SI",
         "Descrição": "DC CONTROLLER (APENAS MODELOS COM DUPLEX)(Atualizado)",
         "Vida_Util": "",
         "Preco_Unitario": "492.79",
-        "Ultima_atualização": "",
+        "Ultima_atualização": "1/21/25",
         "": "",
         "filtro": ""
     },
@@ -38540,16 +38200,6 @@
         "filtro": ""
     },
     {
-        "Modelo": "107W",
-        "CÓDIGO": "",
-        "Descrição": "sem itens cadastrados ",
-        "Vida_Util": "",
-        "Preco_Unitario": "",
-        "Ultima_atualização": "11/18/24",
-        "": "",
-        "filtro": ""
-    },
-    {
         "Modelo": "NOTEBOOK 240 G7",
         "CÓDIGO": "M05460-201",
         "Descrição": "TOP COVER COM TECLADO BRZL",
@@ -38676,6 +38326,116 @@
         "Vida_Util": "50K",
         "Preco_Unitario": "0",
         "Ultima_atualização": "12/12/24",
+        "": "",
+        "filtro": ""
+    },
+    {
+        "Modelo": "E87760Z",
+        "CÓDIGO": "X3A92-60003",
+        "Descrição": "PRINCIPAL - FORMATTER",
+        "Vida_Util": "",
+        "Preco_Unitario": "643.76",
+        "Ultima_atualização": "",
+        "": "",
+        "filtro": ""
+    },
+    {
+        "Modelo": "E57540DN",
+        "CÓDIGO": "WC2-5806-000CN",
+        "Descrição": "BOTÃO INTERRUPTOR (SW21)",
+        "Vida_Util": "",
+        "Preco_Unitario": "",
+        "Ultima_atualização": "1/21/25",
+        "": "",
+        "filtro": ""
+    },
+    {
+        "Modelo": "E57540C",
+        "CÓDIGO": "WC2-5806-000CN",
+        "Descrição": "BOTÃO INTERRUPTOR (SW21)",
+        "Vida_Util": "",
+        "Preco_Unitario": "",
+        "Ultima_atualização": "1/2/25",
+        "": "",
+        "filtro": ""
+    },
+    {
+        "Modelo": "PRO 4303FDW",
+        "CÓDIGO": "RM3-7577-000CN",
+        "Descrição": "DC Controller - ENGINE CONTROLLER WITH HVPS",
+        "Vida_Util": "",
+        "Preco_Unitario": "",
+        "Ultima_atualização": "1/9/25",
+        "": "",
+        "filtro": ""
+    },
+    {
+        "Modelo": "X585F",
+        "CÓDIGO": "CZ248-67917",
+        "Descrição": "KIT DO PAINEL DE CONTROLE",
+        "Vida_Util": "",
+        "Preco_Unitario": "1954.92",
+        "Ultima_atualização": "1/14/25",
+        "": "",
+        "filtro": ""
+    },
+    {
+        "Modelo": "PD45S",
+        "CÓDIGO": "50164510-001",
+        "Descrição": "FONTE - FONTE DE ALIMENTAÇÃO",
+        "Vida_Util": "",
+        "Preco_Unitario": "",
+        "Ultima_atualização": "1/21/25",
+        "": "",
+        "filtro": ""
+    },
+    {
+        "Modelo": "E52645C",
+        "CÓDIGO": "RM2-5454-000CN",
+        "Descrição": "ROLO DUPLEXER",
+        "Vida_Util": "",
+        "Preco_Unitario": "105.79",
+        "Ultima_atualização": "1/21/25",
+        "": "",
+        "filtro": ""
+    },
+    {
+        "Modelo": "E52645DN",
+        "CÓDIGO": "RM2-5454-000CN",
+        "Descrição": "ROLO DUPLEXER",
+        "Vida_Util": "",
+        "Preco_Unitario": "105.79",
+        "Ultima_atualização": "1/21/25",
+        "": "",
+        "filtro": ""
+    },
+    {
+        "Modelo": "107W",
+        "CÓDIGO": "",
+        "Descrição": "sem itens cadastrados ",
+        "Vida_Util": "",
+        "Preco_Unitario": "",
+        "Ultima_atualização": "1/21/25",
+        "": "",
+        "filtro": ""
+    },
+    {
+        "Modelo": "E72525 Z",
+        "CÓDIGO": "W9006MC",
+        "Descrição": "HP UNIDADE DE CILINDRO (K) 200K PÁGINAS",
+        "Vida_Util": "200000",
+        "Preco_Unitario": "149.48",
+        "Ultima_atualização": "1/22/25",
+        "": "",
+        "filtro": ""
+    },
+    {
+        "Modelo": "E72535DN",
+        "CÓDIGO": "W9006MC",
+        "Descrição": "HP UNIDADE DE CILINDRO (K) 200K PÁGINAS",
+        "Vida_Util": "200000",
+        "Preco_Unitario": "149.48",
+        "Ultima_atualização": "1/22/25",
         "": "",
         "filtro": ""
     }
