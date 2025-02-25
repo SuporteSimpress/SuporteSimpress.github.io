@@ -66,7 +66,7 @@ function filterTable() {
   const exibicao = document.getElementById('exibicao')
   var veto = []
 
-  let selecao = model.value;
+  let selecao = model;
 
   for(let i=0;i<ItemAtual.length;i++){
     let it = ItemAtual[i].Modelo 

@@ -92,6 +92,18 @@
     "Preco_Unitario": 2661.67
   },
   {
+    "Modelo": "X57945DN",
+    "CÓDIGO": "5851-8962",
+    "Descrição": "SCB - Placa do scanner",
+    "Preco_Unitario": 2661.67
+  },
+  {
+    "Modelo": "X57945DN",
+    "CÓDIGO": "5851-8962",
+    "Descrição": "SCB - Placa do scanner",
+    "Preco_Unitario": 2661.67
+  },
+  {
     "Modelo": "X57945Z",
     "CÓDIGO": "6QN29-67002",
     "Descrição": "PRINCIPAL - FORMATTER",
@@ -5467,13 +5479,7 @@
     "CÓDIGO": "L65224-201",
     "Descrição": "TECLADO",
     "Preco_Unitario": 334.47
-  },
-  {
-    "Modelo": "E52645DN",
-    "CÓDIGO": "RM3-7476-000CN",
-    "Descrição": "DC controller (simplex)",
-    "Preco_Unitario": 955.53
-  },
+  },  
   {
     "Modelo": "C4010ND",
     "CÓDIGO": "SS218-67004",
