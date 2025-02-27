@@ -10691,7 +10691,7 @@
   {
     "Modelo": "E62655DN",
     "CÓDIGO": "RM2-0849-000CN",
-    "Descrição": "RIGHT DOOR ASSY",
+    "Descrição": "Tampa lateral com Bandeja 1 (MP)",
     "Preco_Unitario": 1643.21
   },
   {
@@ -14062,13 +14062,7 @@
     "CÓDIGO": "E6B67-67905",
     "Descrição": "ROLETE PEGADOR DO PAPEL DE USO",
     "Preco_Unitario": 281.8
-  },
-  {
-    "Modelo": "E60165DN",
-    "CÓDIGO": "RM2-0849-000CN",
-    "Descrição": "RIGHT DOOR ASSY",
-    "Preco_Unitario": 0
-  },
+  },  
   {
     "Modelo": "E62655DN",
     "CÓDIGO": "RM2-1318-000CN",
@@ -22006,7 +22000,7 @@
   {
     "Modelo": "E62565HS",
     "CÓDIGO": "RM2-0849-000CN",
-    "Descrição": "RIGHT DOOR ASSY",
+    "Descrição": "Tampa lateral com Bandeja 1 (MP)",
     "Preco_Unitario": 0
   },
   {
