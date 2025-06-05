@@ -1045,6 +1045,18 @@
     "Preco_Unitario": 536.75
   },
   {
+    "Modelo": "E85055DN",
+    "CÓDIGO": "RM2-1525-000CN",
+    "Descrição": "KIT ROLETES- Bandeja 1 ( MP)",
+    "Preco_Unitario": 0
+  },
+  {
+    "Modelo": "E85055DN",
+    "CÓDIGO": "RM2-1526-000CN",
+    "Descrição": "KIT ROLETES- Bandeja 2 ( Principal)",
+    "Preco_Unitario": 0
+  },
+  {
     "Modelo": "250 G7",
     "CÓDIGO": "L49998-001",
     "Descrição": "SPS-RAW PANEL LCD 15.6 HD AG LED SVA",
