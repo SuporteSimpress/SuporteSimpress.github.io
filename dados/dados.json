@@ -1041,8 +1041,20 @@
   {
     "Modelo": "E85055DN",
     "CÓDIGO": "3WT90-67901",
-    "Descrição": "UNIDADE DE COLETA DE TONER",
+    "Descrição": "KIT ROLETES- Bandeja 1 ( MP)",
     "Preco_Unitario": 536.70
+  },
+  {
+    "Modelo": "E85055DN",
+    "CÓDIGO": "RM2-1525-000CN",
+    "Descrição": " ",
+    "Preco_Unitario": 0
+  },
+  {
+    "Modelo": "E85055DN",
+    "CÓDIGO": "RM2-1526-000CN",
+    "Descrição": "KIT ROLETES- Bandeja 2 ( Principal)",
+    "Preco_Unitario": 0
   },
   {
     "Modelo": "250 G7",
@@ -4727,6 +4739,12 @@
     "Modelo": "E77830DN",
     "CÓDIGO": "JC96-11665A",
     "Descrição": "HP LASERJET CYAN DEVELOPER UNIT.",
+    "Preco_Unitario": 0
+  },
+  {
+    "Modelo": "E77830DN",
+    "CÓDIGO": "JC44-00249A",
+    "Descrição": "PLACA FONTE - SMPS-V1 RUBYX7600 PSPN2 TYPE5H V1 300W",
     "Preco_Unitario": 0
   },
   {
