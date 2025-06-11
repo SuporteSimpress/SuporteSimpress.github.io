@@ -489,7 +489,7 @@
   },
   {
     "Modelo": "SL-M4530ND",
-    "CÓDIGO": "G1591850",
+    "CÓDIGO": "MLT-R304",
     "Descrição": "UNIDADE DE IMAGEM MONTADA",
     "Preco_Unitario": 2321.98
   },
@@ -8821,12 +8821,6 @@
     "CÓDIGO": "RM3-8542-000CN",
     "Descrição": "FONTE - LV POWER SUPPLY PCA (110-127V) MFP",
     "Preco_Unitario": 319.81
-  },
-  {
-    "Modelo": "SL-M4530ND",
-    "CÓDIGO": "108R00713",
-    "Descrição": "UNIDADE DE IMAGEM",
-    "Preco_Unitario": 0
   },
   {
     "Modelo": "SCX6555NX",
