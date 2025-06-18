@@ -6608,6 +6608,48 @@
     "Preco_Unitario": 2215
   },
   {
+    "Modelo": "ZEBRA 220Xi4 ",
+    "CÓDIGO": "P1004238",
+    "Descrição": "CABEÇA DE IMPRESSÃO 203DPI",
+    "Preco_Unitario": 0
+  },
+  {
+    "Modelo": "ZEBRA 220xI4",
+    "CÓDIGO": "P1004239",
+    "Descrição": "CABEÇA DE IMPRESSÃO 300DPI",
+    "Preco_Unitario": 0
+  },
+  {
+    "Modelo": "ZEBRA 110Xi4",
+    "CÓDIGO": "P1004230",
+    "Descrição": "CABEÇA DE IMPRESSÃO 203DPI",
+    "Preco_Unitario": 0
+  },
+  {
+    "Modelo": "ZEBRA 110Xi4",
+    "CÓDIGO": "P1004232",
+    "Descrição": "CABEÇA DE IMPRESSÃO 300DPI",
+    "Preco_Unitario": 0
+  },
+  {
+    "Modelo": "ZEBRA 140Xi4",
+    "CÓDIGO": "P1004234",
+    "Descrição": "CABEÇA DE IMPRESSÃO 203DPI",
+    "Preco_Unitario": 2215
+  },
+  {
+    "Modelo": "ZEBRA 170Xi4",
+    "CÓDIGO": "P1004237",
+    "Descrição": "CABEÇA DE IMPRESSÃO 203DPI",
+    "Preco_Unitario": 0
+  },
+  {
+    "Modelo": "ZEBRA 170Xi4",
+    "CÓDIGO": "P1004236",
+    "Descrição": "CABEÇA DE IMPRESSÃO 203DPI",
+    "Preco_Unitario": 0
+  },
+  {
     "Modelo": "NOTEBOOK 240",
     "CÓDIGO": "L23181-001PRS",
     "Descrição": "DISPLAY BEZEL",
