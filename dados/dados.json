@@ -3682,6 +3682,12 @@
   },
   {
     "Modelo": "M4080FX",
+    "CÓDIGO": "JC44-00197A",
+    "Descrição": "PLACA DE ALTA TENSÃO - HVPS",
+    "Preco_Unitario": 0
+  },
+  {
+    "Modelo": "M4080FX",
     "CÓDIGO": "JC93-00540B",
     "Descrição": "ROLLER-TRAY 2-X",
     "Vida_Util": 200000,
