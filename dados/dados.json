@@ -5435,6 +5435,11 @@
   },
   {
     "Modelo": "E62655DN",
+    "CÓDIGO": "B5L32-60002",
+    "Descrição": "Unidade EMMC 16GB"
+  },
+  {
+    "Modelo": "E62655DN",
     "CÓDIGO": "RM2-9337-000CN",
     "Descrição": "HVPS - High-voltage power supply (HVPS)"
   },
